@@ -2,11 +2,55 @@
 """Sınav verisi: data/*.json + assets/veriler.js (tek sayfa, fetch yok). Çalıştır: python3 scripts/build_exams.py"""
 import json
 import os
+import random
+from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 
-# (soru, [A,B,C,D], doğru_indeks 0-3)
+# --- Doğru şık indeksi (0=A, 1=B, 2=C, 3=D) veri dosyalarında nasıl dağıtılsın? ---
+# "rotate" — Sorular sırayla 0,1,2,3,0,1,... hedefe taşınır (yaklaşık eşit dağılım).
+# "random" — Her soruda 0–3 arası rastgele hedef (RANDOM_SEED ile tekrarlanabilir).
+# "none"   — EXAMS içindeki correct değeri ve şık sırası olduğu gibi yazılır.
+CORRECT_INDEX_MODE = "rotate"
+RANDOM_SEED = 42
+
+
+def move_correct_answer_to_index(options, correct_idx, target_idx):
+    """Doğru metni target_idx konumuna alır; şık listesi yeniden sıralanır."""
+    opts = list(options)
+    n = len(opts)
+    if not (0 <= correct_idx < n) or not (0 <= target_idx < n):
+        return opts, correct_idx
+    label = opts.pop(correct_idx)
+    opts.insert(target_idx, label)
+    return opts, target_idx
+
+
+def build_processed_exams():
+    out = []
+    rr = 0
+    rnd = random.Random(RANDOM_SEED)
+    for ex in EXAMS:
+        qs = []
+        for text, options, correct in ex["questions"]:
+            opts, cor = list(options), correct
+            if CORRECT_INDEX_MODE == "none":
+                new_opts, new_cor = opts, cor
+            elif CORRECT_INDEX_MODE == "rotate":
+                target = rr % 4
+                rr += 1
+                new_opts, new_cor = move_correct_answer_to_index(opts, cor, target)
+            elif CORRECT_INDEX_MODE == "random":
+                new_opts, new_cor = move_correct_answer_to_index(opts, cor, rnd.randint(0, 3))
+            else:
+                raise ValueError("CORRECT_INDEX_MODE: none | rotate | random")
+            qs.append({"text": text, "options": new_opts, "correct": new_cor})
+        out.append({"title": ex["title"], "questions": qs})
+    return out
+
+
+# (soru metni, [A,B,C,D], doğru şık indeksi 0-3) — "none" dışı modlarda indeks üretimde yeniden hesaplanır
 EXAMS = [
     {
         "title": "Acil durum, olay yeri ve 112",
@@ -904,17 +948,17 @@ assert len(EXAMS) == 5
 for ex in EXAMS:
     assert len(ex["questions"]) == 20
 
+PROCESSED = build_processed_exams()
+
 catalog = {
     "exams": [
-        {"id": str(i + 1), "title": EXAMS[i]["title"], "file": f"exam-{i+1}.json"}
+        {"id": str(i + 1), "title": PROCESSED[i]["title"], "file": f"exam-{i+1}.json"}
         for i in range(5)
     ]
 }
 
-for i, ex in enumerate(EXAMS, start=1):
-    payload = {"title": ex["title"], "questions": []}
-    for text, options, correct in ex["questions"]:
-        payload["questions"].append({"text": text, "options": options, "correct": correct})
+for i, ex in enumerate(PROCESSED, start=1):
+    payload = {"title": ex["title"], "questions": ex["questions"]}
     path = os.path.join(DATA, f"exam-{i}.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -924,13 +968,18 @@ with open(os.path.join(DATA, "exams.json"), "w", encoding="utf-8") as f:
 
 ASSETS = os.path.join(ROOT, "assets")
 embedded = []
-for i, ex in enumerate(EXAMS, start=1):
-    qs = [{"text": t, "options": list(o), "correct": c} for t, o, c in ex["questions"]]
-    embedded.append({"id": str(i), "title": ex["title"], "questions": qs})
+for i, ex in enumerate(PROCESSED, start=1):
+    embedded.append({"id": str(i), "title": ex["title"], "questions": ex["questions"]})
 veriler_path = os.path.join(ASSETS, "veriler.js")
 with open(veriler_path, "w", encoding="utf-8") as f:
+    f.write("// Gömülü sınav listesi — düzenle veya bu script ile yeniden üret\n")
     f.write("window.ILKYARDIM_EXAMS = ")
     json.dump(embedded, f, ensure_ascii=False, indent=2)
     f.write(";\n")
 
+_dist = Counter()
+for _ex in PROCESSED:
+    for _q in _ex["questions"]:
+        _dist[_q["correct"]] += 1
 print("Wrote exam-1..5.json, exams.json and assets/veriler.js")
+print("  CORRECT_INDEX_MODE=%r -> doğru indeks dağılımı (0=A..3=D): %s" % (CORRECT_INDEX_MODE, dict(sorted(_dist.items()))))

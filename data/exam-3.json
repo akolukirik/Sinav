@@ -4,52 +4,52 @@
     {
       "text": "OED (otomatik eksternal defibrilatör) temel amacı nedir?",
       "options": [
-        "Kan basıncını ölçmek",
         "Uygun vakalarda şok ile yaşamı tehdit eden ritimleri düzeltmeye yardımcı olmak",
+        "Kan basıncını ölçmek",
         "İlaç enjekte etmek",
         "Röntgen çekmek"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "OED kullanımında cihazın sesli/t yazılı uyarılarına uyulması neden önemlidir?",
       "options": [
-        "Ritim analizi ve şok güvenliği için",
         "Sadece pil tasarrufu",
+        "Ritim analizi ve şok güvenliği için",
         "Zorunlu değil",
         "Sadece kayıt için"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "OED kullanımında ıslak zemin veya metal yüzey yakınında dikkat edilmesinin nedeni nedir?",
       "options": [
         "Sadece hijyen",
-        "Elektriksel güvenlik ve doğru enerji iletimi riskleri",
         "Cihaz garantisi",
+        "Elektriksel güvenlik ve doğru enerji iletimi riskleri",
         "Gürültü"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Yenidoğanda (0-28 gün) OED kullanımı ile ilgili genel yaklaşım hangisidir?",
       "options": [
         "Asla kullanılmaz",
-        "Gerekirse kullanılabilir; mümkünse pediatrik ped/ped mod tercih edilir",
         "Her zaman yetişkin ped kullan",
-        "Sadece evde"
+        "Sadece evde",
+        "Gerekirse kullanılabilir; mümkünse pediatrik ped/ped mod tercih edilir"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Kalıcı pacemaker olan hastada OED kullanımı genel olarak nasıl değerlendirilir?",
       "options": [
-        "Kesinlikle yasak",
         "Pedleri uygun konuma yerleştirip kullanılabilir (klinik protokollere uygun)",
+        "Kesinlikle yasak",
         "Sadece pil değişiminden sonra",
         "Sadece çocuklarda"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Gebelikte OED kullanımı ile ilgili genel bilgi hangisidir?",
@@ -65,31 +65,31 @@
       "text": "Yaşam zincirinin (chain of survival) halkalarından biri aşağıdakilerden hangisidir?",
       "options": [
         "Hastane faturası",
-        "Erken tanı / yardım çağrısı ve erken TYD",
         "Sosyal medya paylaşımı",
+        "Erken tanı / yardım çağrısı ve erken TYD",
         "Eczane stoğu"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Yaşam zincirinde 'erken defibrilasyon' ne anlama gelir?",
       "options": [
         "İlk yardımcının erken eve dönmesi",
-        "OED ile mümkün olan en kısa sürede ritim düzeltme şansı",
         "Sadece ilaç",
-        "Sadece ameliyat"
+        "Sadece ameliyat",
+        "OED ile mümkün olan en kısa sürede ritim düzeltme şansı"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "OED pedlerinin yerleştirilmesinde yaygın öneri hangisidir?",
       "options": [
-        "İkisini de karına",
         "Birini sağ üst göğüs altına, diğerini sol koltuk altına (ön-arka alternatifleri cihaza göre)",
+        "İkisini de karına",
         "Boynun iki yanına",
         "Bacak bileklerine"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Şok öncesi herkesin hastadan uzaklaştırılması neden istenir?",
@@ -104,22 +104,22 @@
     {
       "text": "OED 'şok önermiyor' dediğinde genelde ne yapılır?",
       "options": [
-        "TYD'ye devam ve talimatları izle",
         "Cihazı kapatıp git",
         "Hastayı taşı",
+        "TYD'ye devam ve talimatları izle",
         "Su dök"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "İleri yaşam desteği ve sonrası bakım yaşam zincirinde nereye oturur?",
       "options": [
         "Sadece evde bakım",
-        "Hastane içi ileri tedavi ve iyileşme süreçleri",
         "İlk yardımcı sertifikası",
-        "Sadece eczane"
+        "Sadece eczane",
+        "Hastane içi ileri tedavi ve iyileşme süreçleri"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "OED getirilirken kurtarıcı ne yapmalıdır?",
@@ -144,22 +144,22 @@
     {
       "text": "Ventriküler fibrilasyon gibi ritimlerde erken defibrilasyonun önemi nedir?",
       "options": [
-        "Gecikmenin başarı şansını düşürmesi",
         "Hiçbir etkisi yok",
         "Sadece nabız sayımını kolaylaştırması",
+        "Gecikmenin başarı şansını düşürmesi",
         "Sadece ağrı kesmesi"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "TYD + OED yaklaşımında öncelik hangi sıraya yakındır?",
       "options": [
         "Önce uzun süre bekleyip sonra TYD",
-        "Erken çağrı, erken TYD, erken OED",
         "Sadece OED",
-        "Sadece suni solunum"
+        "Sadece suni solunum",
+        "Erken çağrı, erken TYD, erken OED"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "OED analiz sırasında hastaya dokunulmamasının nedeni nedir?",
@@ -184,22 +184,22 @@
     {
       "text": "İlk yardımcı yorulduğunda ne yapılmalıdır?",
       "options": [
-        "TYD kesinlikle durdurulmaz, mümkünse yer değiştirme / devretme",
         "Her zaman tek başına devam",
         "Sadece su iç",
+        "TYD kesinlikle durdurulmaz, mümkünse yer değiştirme / devretme",
         "Hastayı bırak"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "Resmî ilk yardım eğitim sunumlarına ulaşmak için hangi kurum sayfası kullanılabilir?",
       "options": [
         "Sadece sosyal medya",
-        "Sağlık Bakanlığı acil sağlık / ilk yardım sunumları sayfası",
         "Sadece yabancı siteler",
-        "Sadece forum"
+        "Sadece forum",
+        "Sağlık Bakanlığı acil sağlık / ilk yardım sunumları sayfası"
       ],
-      "correct": 1
+      "correct": 3
     }
   ]
 }

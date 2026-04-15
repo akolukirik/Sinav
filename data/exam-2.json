@@ -4,12 +4,12 @@
     {
       "text": "TYD sırasında solunumu kontrol etmek için önerilen süre üst sınırı yaklaşık kaç saniyedir?",
       "options": [
+        "10 saniyeyi geçmemeli",
         "3 saniye",
         "5 saniye",
-        "10 saniyeyi geçmemeli",
         "30 saniye"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "text": "Yetişkinde temel yaşam desteğinde tek kurtarıcıya göre göğüs basısı / suni solunum oranı genelde hangisidir?",
@@ -24,42 +24,42 @@
     {
       "text": "TYD'ye başlamadan önce bilinç kontrolünde sık kullanılan yaklaşım hangisidir?",
       "options": [
-        "Omuzdan hafifçe sarsarak ve seslenerek yanıt alma",
         "Gözüne su sık",
         "Ayak bileğinden çek",
+        "Omuzdan hafifçe sarsarak ve seslenerek yanıt alma",
         "Parmak ucuyla batırarak uyandırma"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "Hava yolu açıklığı için sık öğretilen baş-çene manevrası hangi amaçla yapılır?",
       "options": [
         "Boynu kırmak",
-        "Dil ve yumuşak damağın geriye kaymasını azaltarak hava yolunu açmak",
         "Kusmayı önlemek",
-        "Nabız artırmak"
+        "Nabız artırmak",
+        "Dil ve yumuşak damağın geriye kaymasını azaltarak hava yolunu açmak"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Yetişkinde göğüs kompresyonu için el yerleşimi nereye önerilir?",
       "options": [
-        "Karnın ortası",
         "Göğüs kemiğinin alt yarısı / orta hat (kompresyon bölgesi)",
+        "Karnın ortası",
         "Sol köprücük kemiği üstü",
         "Boynun yan tarafı"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Yetişkinde önerilen kompresyon hızı dakikada yaklaşık kaç basıdır?",
       "options": [
         "60-80",
-        "80-99",
         "100-120",
+        "80-99",
         "140-160"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "text": "Yetişkinde önerilen kompresyon derinliği yaklaşık olarak hangi aralıktadır?",
@@ -76,60 +76,60 @@
       "options": [
         "2 cm",
         "3 cm",
-        "5 cm",
-        "8 cm"
+        "8 cm",
+        "5 cm"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "text": "Bebekte göğüs kompresyon derinliği yaklaşık kaç cm olarak öğretilir?",
       "options": [
+        "4 cm",
         "1 cm",
         "2 cm",
-        "4 cm",
         "7 cm"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "text": "Kompresyon derinliği genel olarak göğüs ön-arka çapının yaklaşık kaçı olarak ifade edilir?",
       "options": [
         "1/10",
-        "1/6",
         "1/3",
+        "1/6",
         "Tamamı"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "text": "TYD ne zamana kadar sürdürülmelidir?",
       "options": [
         "2 dakika sonra kesin dur",
-        "Solunum dönene, profesyonel yardım gelene veya ilk yardımcı tükenene kadar",
         "Sadece 112 arandıysa",
+        "Solunum dönene, profesyonel yardım gelene veya ilk yardımcı tükenene kadar",
         "30 bası sonra"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "TYD sırasında her kaç döngüde bir kısa yeniden değerlendirme önerilir?",
       "options": [
         "1 döngü",
         "3 döngü",
-        "5 döngü",
-        "10 döngü"
+        "10 döngü",
+        "5 döngü"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "text": "İki kurtarıcı bulunduğunda çocuk ve bebekte bası:solunum oranı genelde nasıl öğretilir?",
       "options": [
-        "30:2",
         "15:2",
+        "30:2",
         "50:2",
         "5:1"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Solunumu olmayan yetişkinde ilk temel adımlardan biri hangisidir?",
@@ -145,61 +145,61 @@
       "text": "TYD öncesi olay yeri güvenliği ile ilgili doğru ifade hangisidir?",
       "options": [
         "TYD'de güvenlik önemli değildir",
-        "Önce sahayı güvenli hale getirmeye çalışmak önemlidir",
         "Sadece hastaya odaklan",
+        "Önce sahayı güvenli hale getirmeye çalışmak önemlidir",
         "Her zaman araç içinde yap"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "OED (AED) kullanımı TYD ile ilişkisi açısından nasıl düşünülmelidir?",
       "options": [
         "OED gelene kadar TYD yapılmaz",
-        "Mümkün olan en kısa sürede getirip talimatlara uyarak kullanmak",
         "Sadece doktor gelince",
-        "Sadece hastanede"
+        "Sadece hastanede",
+        "Mümkün olan en kısa sürede getirip talimatlara uyarak kullanmak"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Suni solunum yapılabiliyorsa her bir solunum yaklaşık ne kadar sürmelidir?",
       "options": [
+        "Yaklaşık 1 saniye",
         "3 saniye üstü",
         "1 saniyeden kısa",
-        "Yaklaşık 1 saniye",
         "10 saniye"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "text": "Göğüs kompresyonu sırasında göğüsün tamamen sıkışması (rebound) için ne önemlidir?",
       "options": [
-        "Basıştan sonra göğsün yeniden genişlemesine izin vermek",
         "Göğse sürekli basılı tutmak",
+        "Basıştan sonra göğsün yeniden genişlemesine izin vermek",
         "Hızı düşürmekten kaçınmak için rebound yapmamak",
         "Sadece dirsek kilidi"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Bilinç kapalı ama düzenli solunumu olan hastada genel yaklaşım hangisidir?",
       "options": [
         "TYD'ye hemen başla",
-        "Hava yolunu koruyup yan yatış (iyileşme pozisyonu) düşün",
         "Ayakta yürüt",
+        "Hava yolunu koruyup yan yatış (iyileşme pozisyonu) düşün",
         "Sırtüstü yastıksız bırak"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Beynin oksijensiz kalabileceği kritik süre eğitimlerde genelde kaç dakika bandında anlatılır?",
       "options": [
         "1-2 dakika",
-        "4-6 dakika",
         "30 dakika",
-        "2 saat"
+        "2 saat",
+        "4-6 dakika"
       ],
-      "correct": 1
+      "correct": 3
     }
   ]
 }

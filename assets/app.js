@@ -13,6 +13,27 @@
     return document.getElementById(id);
   }
 
+  /** Şık metinlerini karıştırır; doğru cevabın yeni indeksini döner. */
+  function shuffleOptions(options, correctOrigIndex) {
+    var entries = options.map(function (label, orig) {
+      return { label: label, orig: orig };
+    });
+    for (var k = entries.length - 1; k > 0; k--) {
+      var j = Math.floor(Math.random() * (k + 1));
+      var t = entries[k];
+      entries[k] = entries[j];
+      entries[j] = t;
+    }
+    var displayCorrect = -1;
+    for (var i = 0; i < entries.length; i++) {
+      if (entries[i].orig === correctOrigIndex) {
+        displayCorrect = i;
+        break;
+      }
+    }
+    return { entries: entries, displayCorrect: displayCorrect };
+  }
+
   function validateExam(exam) {
     if (!exam || !Array.isArray(exam.questions)) return 'Sınav verisi yok.';
     if (exam.questions.length !== N) return 'Bu sınavda ' + N + ' soru olmalı.';
@@ -123,12 +144,15 @@
       progressLabel.textContent = 'Soru ' + prog + ' / ' + N;
       progressFill.style.width = (prog / N) * 100 + '%';
 
-      q.options.forEach(function (label, idx) {
+      var shuffled = shuffleOptions(q.options, q.correct);
+      state.displayCorrect = shuffled.displayCorrect;
+
+      shuffled.entries.forEach(function (item, idx) {
         var li = document.createElement('li');
         var b = document.createElement('button');
         b.type = 'button';
         b.className = 'option-btn';
-        b.textContent = label;
+        b.textContent = item.label;
         b.dataset.index = String(idx);
         b.addEventListener('click', onPick);
         li.appendChild(b);
@@ -140,8 +164,7 @@
       if (state.answered) return;
       var btn = ev.currentTarget;
       var picked = parseInt(btn.dataset.index, 10);
-      var q = state.questions[state.index];
-      var ok = q.correct;
+      var ok = state.displayCorrect;
       state.answered = true;
       if (picked === ok) state.correct++;
 

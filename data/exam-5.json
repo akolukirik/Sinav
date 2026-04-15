@@ -4,12 +4,12 @@
     {
       "text": "Yaşamı tehdit eden dış kanamada ilk yaklaşım hangisidir?",
       "options": [
-        "Kanamayı görmeyi reddet",
         "Doğrudan ve güçlü bası ile basınç uygulama",
+        "Kanamayı görmeyi reddet",
         "Yarayı sıcak suyla yıka",
         "Yarayı açık bırak"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Uzuv kopması gibi ciddi kanamalarda turnike düşünülürken dikkat edilmesi gereken nedir?",
@@ -24,32 +24,32 @@
     {
       "text": "Şok bulgularından biri aşağıdakilerden hangisi olabilir?",
       "options": [
-        "Ciltte solukluk/soğuk terleme, hızlı nabız",
         "Sadece yüksek ateş",
         "Sadece kaşıntı",
+        "Ciltte solukluk/soğuk terleme, hızlı nabız",
         "Sadece hapşırık"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "Şokta hasta yatırılırken hangi pozisyon genelde öğretilir (omurga travması yoksa)?",
       "options": [
-        "Ayakları yükseltilmiş şok pozisyonu düşünülebilir",
         "Baş aşağı dik",
         "Oturur ve eğilmez",
-        "Yüzüstü"
+        "Yüzüstü",
+        "Ayakları yükseltilmiş şok pozisyonu düşünülebilir"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "text": "Göğüs ağrısı ve şok tablosu birlikte görülürse öncelik?",
       "options": [
-        "Evde çay",
         "112 ve acil yardım",
+        "Evde çay",
         "Masaj",
         "Uyku"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Burun kanamasında genel öneri hangisidir?",
@@ -64,22 +64,22 @@
     {
       "text": "Yabancı cisim solunum yolunda tam tıkanıklıkta bilinçli yetişkinde hangi manevra öğretilir?",
       "options": [
-        "Heimlich / abdominal thrust",
         "Sırtüstü baş geri",
         "Su içir",
+        "Heimlich / abdominal thrust",
         "Kusturucu ilaç"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "Hamile veya obez hastada tıkanıklıkta alternatif olarak ne öğretilir?",
       "options": [
         "Karın thrust",
-        "Göğüs thrust",
         "Sadece beklemek",
-        "Zıplatmak"
+        "Zıplatmak",
+        "Göğüs thrust"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Bilinçli çocukta tıkanıklıkta pozisyon genelde nasıldır?",
@@ -94,112 +94,112 @@
     {
       "text": "Hayvan ısırığında ilk yaklaşım hangisidir?",
       "options": [
-        "Yarayı yıkayıp kanamayı kontrol edip 112/yaralı bakımına yönlendirme",
         "Isıran hayvanı yakalamaya zorla",
+        "Yarayı yıkayıp kanamayı kontrol edip 112/yaralı bakımına yönlendirme",
         "Yarayı kapatma yok",
         "Alkol dök"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Zehirlenmede bilinçli hastaya genel olarak ne yapılmamalıdır?",
       "options": [
-        "Kusturmaya zorlamak ve bilinçsiz hastaya ağızdan içecek vermek",
         "112 aramak",
         "Örnekleri not etmek",
+        "Kusturmaya zorlamak ve bilinçsiz hastaya ağızdan içecek vermek",
         "Konteyneri göstermek"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "Yanıkta ilk soğutma ile ilgili genel öneri hangisidir?",
       "options": [
         "Buz doğrudan uzun süre",
-        "Ilık akan su ile sınırlı süre soğutma (eğitimde öğretilen)",
         "Yağ sür",
-        "Patlat"
+        "Patlat",
+        "Ilık akan su ile sınırlı süre soğutma (eğitimde öğretilen)"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Kırık şüphesinde genel ilke hangisidir?",
       "options": [
-        "Hareket ettirerek test et",
         "İmmobilizasyon ve ağrıyı artırmadan stabilize etme",
+        "Hareket ettirerek test et",
         "Masajla düzelt",
         "Sıcak kompres"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Açık göğüs yaralanmasında riskli durum hangisidir?",
       "options": [
-        "Pnömotoraks / hava embolisi riski",
         "Sadece kaşıntı",
+        "Pnömotoraks / hava embolisi riski",
         "Sadece morluk",
         "Hiç risk yok"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Göz yanığında ilk yaklaşım hangisidir?",
       "options": [
         "Ovuştur",
-        "Bol temiz su ile yıkama ve 112",
         "Merhem sık",
+        "Bol temiz su ile yıkama ve 112",
         "Gözü kapatıp bekle"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Boğulma (suda) bilinci kapalı çıkarılan hastada öncelik?",
       "options": [
         "Sadece battaniye",
-        "Hava yolu ve solunum/TYD ve 112",
         "Ayakta yürüt",
-        "Yemek ver"
+        "Yemek ver",
+        "Hava yolu ve solunum/TYD ve 112"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Arı/böcek sokmasında ağır alerji şüphesinde?",
       "options": [
-        "Bekle ve gözlemle",
         "112 ve acil değerlendirme (epinefrin vb. sağlıkçı kararı)",
+        "Bekle ve gözlemle",
         "Sıcak su",
         "Limon sık"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Kan şeker düşüklüğünde bilinç kapalı hastaya ağızdan şeker vermek?",
       "options": [
-        "Tehlikeli aspirasyon riski; yasak",
         "Her zaman verilir",
+        "Tehlikeli aspirasyon riski; yasak",
         "Sadece sıcak çikolata",
         "Sadece meyve suyu zorla"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Yaralı taşırken omurga korunması neden önemlidir?",
       "options": [
-        "Sinir hasarını kötüleştirmemek",
         "Daha hızlı koşmak",
         "Estetik",
+        "Sinir hasarını kötüleştirmemek",
         "Gerekmez"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "text": "İlk yardımda enfeksiyon kontrolü için hangisi önerilir?",
       "options": [
         "Yaraya üflemek",
-        "Temiz malzeme, mümkünse eldiven ve yara örtüsü",
         "Kirli bez",
-        "Tükürük"
+        "Tükürük",
+        "Temiz malzeme, mümkünse eldiven ve yara örtüsü"
       ],
-      "correct": 1
+      "correct": 3
     }
   ]
 }

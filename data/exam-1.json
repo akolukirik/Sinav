@@ -4,52 +4,52 @@
     {
       "text": "Acilde başa çıkmada sıralamanın ilk basamağı genelde hangisidir?",
       "options": [
-        "Hasta öyküsünü detaylı al",
         "Olay yerini ve kişisel güvenliği değerlendir",
+        "Hasta öyküsünü detaylı al",
         "Doğrudan kalp masajına başla",
         "Önce hastayı araca bindir"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Olay yerinde trafik kazasına müdahale ederken hangisi önceliklidir?",
       "options": [
-        "İlk yardımcı reflektör ve trafik kurallarına dikkat etmelidir",
         "Önce yaralıyı araçtan çek",
+        "İlk yardımcı reflektör ve trafik kurallarına dikkat etmelidir",
         "Kaza yerini olduğu gibi bırak",
         "Sadece telefonla kayıt al"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Hasta/yaralıyı değerlendirmede ilk bakılması gerekenlerden biri hangisidir?",
       "options": [
         "Sadece tansiyon ölç",
-        "Bilinç, solunum ve belirgin kanama",
         "Sadece nabız say",
+        "Bilinç, solunum ve belirgin kanama",
         "Yaralıyı ayakta yürüt"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Türkiye'de acil yardım hattı numarası hangisidir?",
       "options": [
         "155",
         "110",
-        "112",
-        "911"
+        "911",
+        "112"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "text": "Olay yeri güvenli değilken ilk yardımcı ne yapmalıdır?",
       "options": [
+        "Güvenliği artırıp riskleri azaltmaya çalış veya güvenli mesafede bekle",
         "Risk alarak hemen yaklaş",
         "Güvenliği sağlamadan veya sağlanmadan zorla müdahale et",
-        "Güvenliği artırıp riskleri azaltmaya çalış veya güvenli mesafede bekle",
         "Olay yerini terk etmeden önce kimseyi bilgilendirme"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "text": "İlk yardımın amaçlarından biri aşağıdakilerden hangisidir?",
@@ -65,31 +65,31 @@
       "text": "Bilinç değerlendirmesinde ilk sorulabilecek basit ifade hangisidir?",
       "options": [
         "Nabzını sayalım mı?",
-        "İyi misiniz? / Kendinize geliyor musunuz?",
         "Ailenizi arayayım mı?",
+        "İyi misiniz? / Kendinize geliyor musunuz?",
         "Boynunuzu hareket ettirin"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "112 aramasında çağrı merkezine hangi bilgi özellikle önemlidir?",
       "options": [
         "Sadece yaralının adı",
-        "Olayın yeri, olayın türü ve hasta durumu özeti",
         "İlk yardımcının mesleği",
-        "Hastanın TC kimlik numarası"
+        "Hastanın TC kimlik numarası",
+        "Olayın yeri, olayın türü ve hasta durumu özeti"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "İlk yardımcının kendini koruması neden önemlidir?",
       "options": [
-        "Sadece yasal zorunluluk",
         "İkinci bir kurban oluşmasını önlemek için",
+        "Sadece yasal zorunluluk",
         "Daha hızlı koşabilmek için",
         "Gereksizdir"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Olay yerinde elektrik riski varsa yaklaşmadan önce ne düşünülmelidir?",
@@ -105,31 +105,31 @@
       "text": "Yaralıya yaklaşmadan önce çevrede hangi tehlike grupları değerlendirilmelidir?",
       "options": [
         "Sadece hava sıcaklığı",
-        "Kimyasal, yangın, trafik, elektrik vb. çevresel tehlikeler",
         "Sadece yağmur",
+        "Kimyasal, yangın, trafik, elektrik vb. çevresel tehlikeler",
         "Sadece gürültü"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "İlk yardımda 'vücuda kontrol' (hızlı tarama) amacı nedir?",
       "options": [
         "Estetik değerlendirme",
-        "Yaşamı tehdit eden kanama ve solunum gibi bulguları fark etmek",
         "Kırığı kesin tanılamak",
-        "Hastanın kilosunu tahmin etmek"
+        "Hastanın kilosunu tahmin etmek",
+        "Yaşamı tehdit eden kanama ve solunum gibi bulguları fark etmek"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "Yaralıya müdahale sırasında hangisi doğru bir yaklaşımdır?",
       "options": [
-        "Bildiğin her şeyi aynı anda yap",
         "Öncelikleri belirleyip yaşamı tehdit edenlere önce müdahale et",
+        "Bildiğin her şeyi aynı anda yap",
         "Hareketi tamamen yasakla",
         "Hastayı sürekli ayakta tut"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "İlk yardımcı olay yerinde koruyucu ekipman olarak ne kullanabilir?",
@@ -145,61 +145,61 @@
       "text": "Hasta bilinci kapalı görünüyorsa ilk genel yaklaşım hangisidir?",
       "options": [
         "Suya zorla içir",
-        "Hava yolunu ve solunumu değerlendirmek için temel kontroller",
         "Boynunu çevirmeden sırtüstü bırakıp uzaklaş",
+        "Hava yolunu ve solunumu değerlendirmek için temel kontroller",
         "Aspirin ver"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "Olay yerinde panik azaltmak için hangisi uygundur?",
       "options": [
         "Bağırmak",
-        "Sakin ve net talimatlar, gerekiyorsa yardım isteme",
         "Kalabalığı yaralıya yığmak",
-        "Kimsenin 112 aramasına izin vermemek"
+        "Kimsenin 112 aramasına izin vermemek",
+        "Sakin ve net talimatlar, gerekiyorsa yardım isteme"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "text": "İlk yardımda 'öykü' almak ne zaman değerlidir?",
       "options": [
-        "Yaşam tehdidi giderilmeden önce uzun süreli sohbet",
         "Güvenlik ve temel yaşam bulguları sonrası, uygun şekilde",
+        "Yaşam tehdidi giderilmeden önce uzun süreli sohbet",
         "Asla alınmaz",
         "Sadece polis gelince"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "text": "Yangın ortamında ilk yardımcı öncelikle ne yapmalıdır?",
       "options": [
-        "Dumanın altından emniyetli çıkış ve güvenlik",
         "Pencereden atla",
+        "Dumanın altından emniyetli çıkış ve güvenlik",
         "Su bulunana kadar bekle",
         "Asansörle in"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "text": "Kazazedeyi taşımadan önce hangisi düşünülmelidir?",
       "options": [
         "Her zaman koşarak taşı",
-        "Omurga yaralanması riski ve uygun taşıma tekniği",
         "Taşıma yasaktır",
+        "Omurga yaralanması riski ve uygun taşıma tekniği",
         "Sadece kucakta taşı"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "text": "İlk yardım eğitiminde vurgulanan temel ilke hangisidir?",
       "options": [
-        "Zarar verme (zararı artırmama)",
         "Hızlı taburcu",
         "Tanı koyma zorunluluğu",
-        "İlacı mutlaka ver"
+        "İlacı mutlaka ver",
+        "Zarar verme (zararı artırmama)"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
