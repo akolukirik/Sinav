@@ -1,0 +1,205 @@
+{
+  "title": "Kanama, şok ve yaralanma özeti",
+  "questions": [
+    {
+      "text": "Yaşamı tehdit eden dış kanamada ilk yaklaşım hangisidir?",
+      "options": [
+        "Kanamayı görmeyi reddet",
+        "Doğrudan ve güçlü bası ile basınç uygulama",
+        "Yarayı sıcak suyla yıka",
+        "Yarayı açık bırak"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Uzuv kopması gibi ciddi kanamalarda turnike düşünülürken dikkat edilmesi gereken nedir?",
+      "options": [
+        "Hiç kullanılmaz",
+        "Yaşamı tehdit eden kanamada uygun şekilde ve mümkünse eğitimle",
+        "Her küçük keside",
+        "Sadece baş parmak için"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Şok bulgularından biri aşağıdakilerden hangisi olabilir?",
+      "options": [
+        "Ciltte solukluk/soğuk terleme, hızlı nabız",
+        "Sadece yüksek ateş",
+        "Sadece kaşıntı",
+        "Sadece hapşırık"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Şokta hasta yatırılırken hangi pozisyon genelde öğretilir (omurga travması yoksa)?",
+      "options": [
+        "Ayakları yükseltilmiş şok pozisyonu düşünülebilir",
+        "Baş aşağı dik",
+        "Oturur ve eğilmez",
+        "Yüzüstü"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Göğüs ağrısı ve şok tablosu birlikte görülürse öncelik?",
+      "options": [
+        "Evde çay",
+        "112 ve acil yardım",
+        "Masaj",
+        "Uyku"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Burun kanamasında genel öneri hangisidir?",
+      "options": [
+        "Başı geri eğ",
+        "Burnu sıkıp 10-15 dk kadar öne eğilmiş başla basınç",
+        "Burun içine pamuk zorla it",
+        "Sıcak kompres göğse"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yabancı cisim solunum yolunda tam tıkanıklıkta bilinçli yetişkinde hangi manevra öğretilir?",
+      "options": [
+        "Heimlich / abdominal thrust",
+        "Sırtüstü baş geri",
+        "Su içir",
+        "Kusturucu ilaç"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hamile veya obez hastada tıkanıklıkta alternatif olarak ne öğretilir?",
+      "options": [
+        "Karın thrust",
+        "Göğüs thrust",
+        "Sadece beklemek",
+        "Zıplatmak"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilinçli çocukta tıkanıklıkta pozisyon genelde nasıldır?",
+      "options": [
+        "Ayakta veya oturur, yaş grubuna uygun thrust",
+        "Ters asarak",
+        "Yüzüstü yastıksız",
+        "Koşarak"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hayvan ısırığında ilk yaklaşım hangisidir?",
+      "options": [
+        "Yarayı yıkayıp kanamayı kontrol edip 112/yaralı bakımına yönlendirme",
+        "Isıran hayvanı yakalamaya zorla",
+        "Yarayı kapatma yok",
+        "Alkol dök"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Zehirlenmede bilinçli hastaya genel olarak ne yapılmamalıdır?",
+      "options": [
+        "Kusturmaya zorlamak ve bilinçsiz hastaya ağızdan içecek vermek",
+        "112 aramak",
+        "Örnekleri not etmek",
+        "Konteyneri göstermek"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yanıkta ilk soğutma ile ilgili genel öneri hangisidir?",
+      "options": [
+        "Buz doğrudan uzun süre",
+        "Ilık akan su ile sınırlı süre soğutma (eğitimde öğretilen)",
+        "Yağ sür",
+        "Patlat"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kırık şüphesinde genel ilke hangisidir?",
+      "options": [
+        "Hareket ettirerek test et",
+        "İmmobilizasyon ve ağrıyı artırmadan stabilize etme",
+        "Masajla düzelt",
+        "Sıcak kompres"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Açık göğüs yaralanmasında riskli durum hangisidir?",
+      "options": [
+        "Pnömotoraks / hava embolisi riski",
+        "Sadece kaşıntı",
+        "Sadece morluk",
+        "Hiç risk yok"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Göz yanığında ilk yaklaşım hangisidir?",
+      "options": [
+        "Ovuştur",
+        "Bol temiz su ile yıkama ve 112",
+        "Merhem sık",
+        "Gözü kapatıp bekle"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Boğulma (suda) bilinci kapalı çıkarılan hastada öncelik?",
+      "options": [
+        "Sadece battaniye",
+        "Hava yolu ve solunum/TYD ve 112",
+        "Ayakta yürüt",
+        "Yemek ver"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Arı/böcek sokmasında ağır alerji şüphesinde?",
+      "options": [
+        "Bekle ve gözlemle",
+        "112 ve acil değerlendirme (epinefrin vb. sağlıkçı kararı)",
+        "Sıcak su",
+        "Limon sık"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kan şeker düşüklüğünde bilinç kapalı hastaya ağızdan şeker vermek?",
+      "options": [
+        "Tehlikeli aspirasyon riski; yasak",
+        "Her zaman verilir",
+        "Sadece sıcak çikolata",
+        "Sadece meyve suyu zorla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yaralı taşırken omurga korunması neden önemlidir?",
+      "options": [
+        "Sinir hasarını kötüleştirmemek",
+        "Daha hızlı koşmak",
+        "Estetik",
+        "Gerekmez"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "İlk yardımda enfeksiyon kontrolü için hangisi önerilir?",
+      "options": [
+        "Yaraya üflemek",
+        "Temiz malzeme, mümkünse eldiven ve yara örtüsü",
+        "Kirli bez",
+        "Tükürük"
+      ],
+      "correct": 1
+    }
+  ]
+}

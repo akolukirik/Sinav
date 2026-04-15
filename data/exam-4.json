@@ -1,0 +1,205 @@
+{
+  "title": "Bilinç, inme (FAST) ve pozisyon",
+  "questions": [
+    {
+      "text": "USAY bilinç düzeyi sıralamasında 'U' neyi ifade eder?",
+      "options": [
+        "Yanıtsız",
+        "Uyanık (alert)",
+        "Ağrıya yanıt",
+        "Sese yanıt"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "USAY'da 'S' hangi düzeyle ilişkilendirilir?",
+      "options": [
+        "Uyanık",
+        "Sese yanıt",
+        "Ağrıya yanıt",
+        "Yanıtsız"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "USAY'da 'A' hangi düzeyle ilişkilendirilir?",
+      "options": [
+        "Uyanık",
+        "Sese yanıt",
+        "Ağrıya yanıt",
+        "Yanıtsız"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "USAY'da 'Y' ne anlama gelir?",
+      "options": [
+        "Yaralı",
+        "Yanıtsız",
+        "Yürüyebilir",
+        "Yüksek ateş"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "FAST inme tanımsal kontrolünde 'F' neyi hatırlatır?",
+      "options": [
+        "Foot bacak",
+        "Face yüz asimetrisi/kayma",
+        "Fever ateş",
+        "Food yemek"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "FAST'ta 'A' neyi kontrol etmeyi hatırlatır?",
+      "options": [
+        "Ağrı",
+        "Arm kol güçsüzlüğü/düşmesi",
+        "Ateş",
+        "Ayak şişliği"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "FAST'ta 'S' neyi kontrol etmeyi hatırlatır?",
+      "options": [
+        "Solunum sayısı",
+        "Speak konuşma bozukluğu",
+        "Şok",
+        "Serum"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bazı eğitimlerde FAST'ın son harfi zaman/112 araması veya güvenli nakil ile ilişkilendirilir. Hangisi uygundur?",
+      "options": [
+        "Durumu fark edince gecikmeden 112'yi aramak",
+        "Sadece evde beklemek",
+        "Sadece sosyal medyada paylaşmak",
+        "Hastayı koşturarak yormak"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "İnme şüphesinde ilk yardımcının önceliği genelde nedir?",
+      "options": [
+        "Aspirin vermek",
+        "Zaman kaybetmeden 112 ve hastane değerlendirmesi",
+        "Masaj yağı sürmek",
+        "Bol su içirmek"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilinç kapalı ama solunumu olan hastada hava yolunu korumak için hangi pozisyon düşünülür?",
+      "options": [
+        "Yüzüstü",
+        "Sırtüstü baş geri",
+        "Yan yatış (iyileşme pozisyonu)",
+        "Oturur"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yan yatışta genel amaçlardan biri nedir?",
+      "options": [
+        "Kusmayı kolaylaştırıp hava yolunu açık tutmaya yardım",
+        "Bel ağrısını kesin tedavi",
+        "Kırığı düzelt",
+        "Nabız artır"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Omurga travması şüphesi varsa yan yatış ile ilgili dikkat edilmesi gereken nedir?",
+      "options": [
+        "Her zaman zorla yan çevir",
+        "Stabilizasyon ve şüphe varsa hareketi minimize etme yaklaşımı",
+        "Sadece ayakta tut",
+        "Omurgayı bükerek çevir"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilinç bozukluğunda ilk değerlendirmede solunum kontrolü için üst süre yaklaşık kaç saniyedir?",
+      "options": [
+        "30 saniye",
+        "10 saniyeyi geçmemeli",
+        "60 saniye",
+        "2 dakika"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hasta sese yanıt veriyor ama tam uyanık değilse USAY'da yaklaşık hangi düzey düşünülür?",
+      "options": [
+        "Uyanık",
+        "Sese yanıt",
+        "Yanıtsız",
+        "Ağrıya yanıt"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Konuşma bozukluğu ve yüz kayması birlikte görülürse hangi acil düşünülmelidir?",
+      "options": [
+        "Basit migren",
+        "İnme veya benzeri nörolojik acil",
+        "Sadece yorgunluk",
+        "Alerji"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilinçli hastada göğüs ağrısı ve nefes darlığı varsa ilk yaklaşım hangisidir?",
+      "options": [
+        "Stresten kesinlikle kaynaklanır, bekle",
+        "112 ve acil değerlendirme",
+        "Ağır egzersiz yaptır",
+        "Sıcak duş"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hipoglisemi şüphesinde bilinçli ve yutabilen hastada ne düşünülebilir?",
+      "options": [
+        "Şekerli içecek/yiyecek (protokole uygun)",
+        "Sadece su",
+        "Alkol",
+        "Aç bırak"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Nöbet sonrası hasta yarı bilinçli ve solunumu iyi ise genel yaklaşım?",
+      "options": [
+        "Zorla ağızdan yemek ver",
+        "Güvenli yan yatış ve 112 değerlendirmesi",
+        "Sırtüstü baş geri zorla",
+        "Koştur"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilinç değerlendirmesinde 'ağrıya yanıt' nasıl test edilebilir?",
+      "options": [
+        "Kırık bölgeye şiddetli vurma",
+        "Trapezius sıkma gibi uyaranlarla yanıt arama (eğitimde öğretilen uygun uyaran)",
+        "Gözüne dokunma",
+        "Test etme yasak"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "İlk yardımcı bilinç düzeyini kaydederken ne fayda sağlar?",
+      "options": [
+        "112 ve sağlık ekibine iletilen net bilgi",
+        "Sadece merak",
+        "Hastayı utandırmak",
+        "Yasak"
+      ],
+      "correct": 0
+    }
+  ]
+}

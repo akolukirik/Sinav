@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>İlk yardım sınavları</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <main id="view-home">
+      <header class="site-header">
+        <h1>İlk yardım sınavları</h1>
+      </header>
+      <p id="home-error" class="error-banner hidden" role="alert"></p>
+      <ul id="exam-list" class="exam-list" aria-live="polite"></ul>
+    </main>
+
+    <main id="view-quiz" class="hidden">
+      <header class="site-header">
+        <p><button type="button" class="btn btn-secondary" id="btn-ana">← Ana sayfa</button></p>
+        <h1 id="quiz-title">Sınav</h1>
+      </header>
+
+      <p id="quiz-error" class="error-banner hidden" role="alert"></p>
+
+      <div id="quiz-active">
+        <div class="quiz-top">
+          <div class="progress-wrap">
+            <div class="progress-label" id="progress-label">Soru 1 / 20</div>
+            <div class="progress-bar" aria-hidden="true">
+              <div class="progress-fill" id="progress-fill"></div>
+            </div>
+          </div>
+        </div>
+
+        <section class="question-box" aria-live="polite">
+          <p id="question-text" class="question-text"></p>
+          <ul id="options-list" class="options"></ul>
+          <p id="feedback" class="feedback hidden" aria-live="assertive"></p>
+        </section>
+
+        <div class="btn-row">
+          <button type="button" class="btn btn-primary" id="btn-next" disabled>Sonraki</button>
+        </div>
+      </div>
+
+      <div id="quiz-result" class="hidden">
+        <div class="result-panel">
+          <h2 class="result-heading">Test bitti</h2>
+          <p class="result-total" id="result-total">Toplam puan: 0</p>
+          <p class="result-score" id="result-score">0 / 100</p>
+          <p class="result-detail" id="result-detail"></p>
+          <div class="btn-row" style="justify-content: center">
+            <button type="button" class="btn btn-secondary" id="btn-ana2">Ana sayfa</button>
+            <button type="button" class="btn btn-primary" id="btn-retry">Tekrar</button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="page-footer-sprout" title="Filiz" aria-hidden="true">🌱</footer>
+
+    <script src="./assets/veriler.js"></script>
+    <script src="./assets/app.js"></script>
+  </body>
+</html>

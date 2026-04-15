@@ -1,0 +1,29 @@
+{
+  "exams": [
+    {
+      "id": "1",
+      "title": "Acil durum, olay yeri ve 112",
+      "file": "exam-1.json"
+    },
+    {
+      "id": "2",
+      "title": "TYD: temel yaşam desteği",
+      "file": "exam-2.json"
+    },
+    {
+      "id": "3",
+      "title": "OED ve yaşam zinciri",
+      "file": "exam-3.json"
+    },
+    {
+      "id": "4",
+      "title": "Bilinç, inme (FAST) ve pozisyon",
+      "file": "exam-4.json"
+    },
+    {
+      "id": "5",
+      "title": "Kanama, şok ve yaralanma özeti",
+      "file": "exam-5.json"
+    }
+  ]
+}
