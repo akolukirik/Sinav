@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 8/15",
+  "questions": [
+    {
+      "text": "Solunum yolu kısmi tıkanmış kişiye ne yapılır?",
+      "options": [
+        "Öksürmeye teşvik edilir.",
+        "Su verilir.",
+        "Heimlich manevrası (karına bası) uygulanır.",
+        "Rentek Manevrası uygulanır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Solunum yolu kısmi tıkanmış kişiye ne yapılır?",
+      "options": [
+        "Hemen kişinin arkasında durulmalıdır.",
+        "Öksürmeye teşvik edilmelidir.",
+        "Yakından izlenmeli ve başka girişimde bulunulmamalıdır.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bebekte havayolu tam tıkanmış ve bilinç kapanmışsa ne yapılır?",
+      "options": [
+        "Heimlich manevrası uygulanır.",
+        "Sırta 5 vuru göğüs kemiğine 5 bası uygulanır.",
+        "Temel yaşam desteği uygulanır.",
+        "Karına bası uygulanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Bebekte havayolu tam tıkanmış ancak bilinci açıksa ne yapılır?",
+      "options": [
+        "Heimlich manevrası uygulanır.",
+        "Öksürtülür.",
+        "Temel yaşam desteği uygulanır.",
+        "Su verilir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kalp durmasına ne kadar sürede müdahale edilmezse doku hasarı oluşur?",
+      "options": [
+        "5 dakika",
+        "10 dakika",
+        "15 dakika",
+        "30 dakika"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "İlk yardımcının yalnız olduğu hangi durumda 1.değerlendirme olumsuz ise (solunum yoksa) hemen 112 aranır?",
+      "options": [
+        "Boğulmalarda",
+        "Yetişkinlerde",
+        "Bebeklerde",
+        "Çocuklarda"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Baş -çene pozisyonu neden verilir?",
+      "options": [
+        "Dolaşımı düzenlemek için",
+        "Hava yolu açıklığını sağlamak için",
+        "Sindirimi düzenlemek için",
+        "Kusturmak için"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yapay solunum aşağıdaki hangi durumda yapılmaz?",
+      "options": [
+        "Bilinç kapalı ancak soluk hissediliyorsa",
+        "Bak- dinle- hisset yapmadan",
+        "Hasta /yaralı kendine gelmiş ise",
+        "Hepsi ‐ 20 ‐ KANAMALARDA İLK YARDIM"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Damar bütünlüğünün bozulması sonucu kanın damar dışına doğru akmasına ne isim verilir?",
+      "options": [
+        "Kanama",
+        "Kırık",
+        "Çıkık",
+        "Burkulma"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kanama, kalp atımları ile uyumlu olarak kesik kesik ve fışkırır tarzda akıyorsa ne çeşit bir kanamadır?",
+      "options": [
+        "Toplardamar kanaması",
+        "Atardamar kanaması",
+        "Dış kanama",
+        "Doğal deliklerden olan kanama"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kanama çeşitleriyle ilgili verilenlerden hangisi yanlıştır?",
+      "options": [
+        "Toplardamar kanaması sızıntı şeklinde akar.",
+        "Atardamar kanaması sızıntı şeklinde akar.",
+        "Atardamar kanaması kesik kesik ve fışkırır tarzda akar.",
+        "Kılcal damar kanaması küçük kabarcıklar şeklindedir."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi atardamar kanamasının özelliğidir?",
+      "options": [
+        "Açık kırmızı renklidir.",
+        "Sızıntı şeklinde akar.",
+        "Koyu renklidir.",
+        "Tehlikeli değildir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kanamayı durdurmak için ilk yapılması gereken aşağıdakilerden hangisidir?",
+      "options": [
+        "Baskı noktalarına baskı uygulanır.",
+        "Kanamalı bölgenin üzerine turnike uygulanır.",
+        "Kanamalı bölge su ile yıkanır.",
+        "Kanamalı bölgenin üzeri temiz bir bezle kapatılarak baskı uygulanır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "İç kanamalarda ilk yardımda aşağıdakilerden hangisinin uygulanması sakıncalıdır?",
+      "options": [
+        "Ağızdan sıvı verilerek kayıp önlenir",
+        "Şok pozisyonu verilir.",
+        "Hastanın üzeri örtülerek sıcak tutulur.",
+        "Hasta hareket ettirilmez."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kanamalarda vücutta baskı uygulanabilecek noktalardan birisidir?",
+      "options": [
+        "Köprücük kemiği üzeri",
+        "Kulakların arkası",
+        "Göğüs kemiğinin alt ucu",
+        "Ayak sırtının orta noktası"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangi durumda turnike uygulanabilir?",
+      "options": [
+        "Kırığı olan hastada",
+        "Çok sayıda yaralının bulunduğu bir ortamda tek ilk yardımcı varsa",
+        "Beyin kanamalarında",
+        "İç kanamalarda ‐ 21 ‐"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kanaması durdurulamayan bir hastada turnike uygulaması için en uygun malzeme hangisidir?",
+      "options": [
+        "Uzun bir ip",
+        "Uzun bir tel",
+        "Serum lastiği",
+        "Geniş bir sargı bezi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Uzuv kopmalarında kopan parça ne yapılmalıdır?",
+      "options": [
+        "Hasta ile birlikte en geç 6 saat içinde sağlık kuruluşuna gönderilmelidir.",
+        "Savcı gelene kadar olay yerinde bırakılmalıdır.",
+        "Soğuk su dolu bir kabın içine koyulmalıdır.",
+        "Kopan parça bir torbanın içine koyulup polislere verilmelidir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Burun kanamasının durdurulmasında aşağıdakilerden hangisi ilk yardımcının görevi değildir?",
+      "options": [
+        "Hasta sakinleştirilir, oturtulur.",
+        "Başı öne eğilerek 5 dakika boyunca burun kanatlarına baskı uygulanır.",
+        "Kanama durmazsa buruna tampon uygulanır.",
+        "Kanama durmazsa doktora gitmesi sağlanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Burun kanamasında ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "Başı öne eğilerek 5 dakika burun kanatlarına baskı uygulanır.",
+        "Başı arkaya eğilerek 5 dakika burun kanatlarına baskı uygulanır.",
+        "Buruna tampon uygulanır.",
+        "Hastanın ensesine buz uygulanır."
+      ],
+      "correct": 0
+    }
+  ]
+}

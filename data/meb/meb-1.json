@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 1/15",
+  "questions": [
+    {
+      "text": "İlk yardımın tanımı nedir?",
+      "options": [
+        "Hastanede yapılan müdahaledir.",
+        "Olay yerinde ilaç vererek yapılan müdahaledir.",
+        "Hastanedeki hekimler tarafından yapılan ilk müdahaledir.",
+        "Olay yerinde, hastanın sağlık durumunun daha da kötüleşmesini engellemek amacıyla ilaçsız olarak yapılan müdahaledir."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ani olarak ortaya çıkan hastalık veya yaralanma durumunda ; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla ol ay yerindeki mevcut imkânlarla yapılan hızlı ve etkili müdahaleye ne isim verilir?",
+      "options": [
+        "Acil tedavi",
+        "İleri yaşam desteği",
+        "İlk yardım",
+        "Acil müdahale"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ilk yardımın temel uygulamalarından değildir?",
+      "options": [
+        "Koruma",
+        "Bildirme",
+        "Kayıt tutma",
+        "Kurtarma"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hangisi ilk yardımın temel uygulamalarındandır?",
+      "options": [
+        "Koruma, Kayıt tutma, Kurtarma",
+        "Koruma, Bildirme, Kurtarma",
+        "Koruma, Kurtarma, Tedavi etme",
+        "Koruma, Bildirme, Tedavi etme"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hangisi ilk yardımın öncelikli amaçlarındandır?",
+      "options": [
+        "Kişinin hayatını korumak",
+        "Sağlık durumunun kötüleşmesini önlemek",
+        "İyileşmesine destek olmak",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ilk yardımın öncelikli amaçlarından birisi değildir?",
+      "options": [
+        "Yaşamsal fonksiyonların sürdürülmesini sağlamak.",
+        "İyileştirmeyi kolaylaştırmak.",
+        "Hastanın durumu kötüleştiğinde ilaçla müdahale etmek.",
+        "H/Y’nin sağlık durumunun kötüleşmesini önlemek."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ilk yardımcıda bulunması gereken özelliklerden değildir?",
+      "options": [
+        "İyi bir iletişim becerisine sahip olmalıdır.",
+        "Sakin, kendine güvenli ve pratik olmalıdır.",
+        "Önce kendi can güvenliğini korumalıdır.",
+        "İlk yardımda kullanabileceği malzemeleri sürekli yanında taşımalıdır. ‐ 2 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "İlk yardımla ilgili yazılanlardan hangisi doğrudur?",
+      "options": [
+        "İlk yardım sırasında ilaç kullanılır.",
+        "İlk yardım acil tedavi ünitelerinde yapılır.",
+        "İlk yardım eldeki mevcut araç gereçlerle yapılır.",
+        "İlk yardım sadece doktor ve sağlık personeli tarafından yapılır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "İlk yardım ve acil tedavi arasındaki fark nedir?",
+      "options": [
+        "Acil tedavi bu konuda ehliyetli kişilerce; ilk yardım, ilk yardım eğitimi almış kişilerce yapılır.",
+        "Acil tedavi olayın olduğu yerde bulunabilen malzemeler kullanılarak yapılan müdahaledir.",
+        "Acil tedavi olay yerinde, ilk yardım hastanede yapılır.",
+        "İlk yardım sadece bu konuda eğitim almış sağlık personeli tarafından yapılır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hastanın en yakın sağlık kuruluşuna sevkini sağlamak amacıyla hangi telefon numarası aranmalıdır?",
+      "options": [
+        "110",
+        "155",
+        "156",
+        "112"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi 112’ nin aranması sırasında yapılmamalıdır?",
+      "options": [
+        "Sakin olunmalıdır.",
+        "Sorulan sorulara net cevap vermelidir.",
+        "Kesin yer ve adres bilgileri yerilmelidir.",
+        "Telefon hemen kapatılmalıdır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "112 arandığında adres tarif edilirken nelere dikkat edilmelidir?",
+      "options": [
+        "Tahmini bir adres verilmelidir.",
+        "Olay yerine yakın, bilinen bir yerin adı verilmelidir.",
+        "Acele bir şekilde hızlı konuşulmalıdır.",
+        "Adres verilmeden sadece telefon numarası verilmesi yeterlidir."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "112 aranırken yapılması yanlış olan davranış hangisidir?",
+      "options": [
+        "Yaralı sayısı bildirilmelidir.",
+        "Yaralıların durumu söylenmelidir.",
+        "Arayan kişi kendini tanıtmalıdır.",
+        "Olay yerindeki herkesin ismi tek tek söylenmelidir."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ilk yardımcının kurtarma ile ilgili yapması gerekenlerden birisidir?",
+      "options": [
+        "Yaralının durumunu değerlendirmek",
+        "Yaralının yarasını görmesini sağlamak",
+        "Yaralıyı soğuk tutmak",
+        "Yaralıyı olay yerinden taşımak"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangisi ilk yardımcının görevlerinden birisi değildir?",
+      "options": [
+        "Yaralıların korku ve endişelerini gidermek",
+        "Yaralıyı sıcak tutmak",
+        "Yaralının yarasını görmesini sağlamak",
+        "Yaralının en uygun yöntemlerle (112) en yakın sağlık kuruluşuna sevkini sağlamak ‐ 3 ‐"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "İlk yardımcının yaralıya müdahale ederken yapması yanlış olan davranış hangisidir?",
+      "options": [
+        "Yaralıyı sıcak tutmak",
+        "Yaralıyı hareket ettirmeden müdahale yapmak",
+        "Yaralının korku ve endişelerini gidermek",
+        "Yaralıya su ve sigara vermek"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hayat kurtarma zincirinin birinci halkası hangisidir?",
+      "options": [
+        "Sağlık kuruluşuna haber verme",
+        "Olay yerinde yapılan temel yaşam desteği",
+        "Ambulans ekiplerince yapılan müdahale",
+        "Hastane acil servislerinde yapılan tedavi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aşağıdakilerden hangisi hayat kurtarma zincirinin halkalarından değildir?",
+      "options": [
+        "Polise haber verme",
+        "Olay yerinde yapılan temel yaşam desteği",
+        "Otomatik eksternal fibrilatör uygulaması",
+        "Hastane acil servislerinde yapılan tedavi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "İlk yardımın ABC’si nedir?",
+      "options": [
+        "Havayolu açıklığının değerlendirilmesi",
+        "Bak- Dinle- Hisset yöntemiyle solunumun değerlendirilmesi",
+        "Dolaşımın değerlendirilmesi",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Acil tedavi nedir?",
+      "options": [
+        "Doktor ve diğer sağlık personeli tarafından uygulanan tıbbi müdahalelerdir.",
+        "Yardım çağırmaktır.",
+        "Olay yerinde yapılan müdahaledir.",
+        "Eğitim alan herkesin uygulayabileceği müdahaledir."
+      ],
+      "correct": 0
+    }
+  ]
+}

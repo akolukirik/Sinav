@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 12/15",
+  "questions": [
+    {
+      "text": "Elektrik yanıklarında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Gerekirse yaralıya su ile müdahale edilmelidir.",
+        "Hasar gören bölgenin üzeri açık bırakılmalıdır.",
+        "Yaralıya dokunmadan önce elektrik akımı kesilmelidir.",
+        "Su toplamış yerler patlatılmalıdır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Donmalarda sağlıklı deriden kesin hatları ile ayrılan siyah bir bölge varsa kaçıncı derece donuk türüdür?",
+      "options": [
+        "Birinci derece",
+        "İkinci derece",
+        "Üçüncü derece",
+        "Dördüncü derece"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Donmuş bir kişiye aşağıdakilerden hangisinin yapılması yanlıştır?",
+      "options": [
+        "Sıcak içecekler verilir.",
+        "Kuru giysiler giydirilir.",
+        "Donmuş bölge hızla ovularak ısıtılır.",
+        "Hasta hareket ettirilmez."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hangisi sıcak çarpması belirtilerinden değildir?",
+      "options": [
+        "Baş dönmesi",
+        "Soğuk deri",
+        "Yorgunluk",
+        "Bulantı ve kusma"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hangisi sıcak çarpması belirtilerinden birisidir?",
+      "options": [
+        "Hayal görme",
+        "Soğuk deri",
+        "Öksürük",
+        "İshal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Sıcak çarpmasında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hasta serin ve havadar bir yere alınarak giysileri çıkarılır, sırtüstü yatırılır, kol ve bacakları yükseltilir.",
+        "Hasta koma pozisyonuna getirilir ve ağızdan hiçbir şey verilmez.",
+        "Hasta koma pozisyonuna getirilerek üzeri örtülür.",
+        "Hasta düz oturtularak başı öne doğru hafifçe eğilir ve ağızdan şekerli su verilir. ‐ 30 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangisi fiziksel yanık çeşitlerinden değildir?",
+      "options": [
+        "Isı ile oluşan yanıklar",
+        "Elektrikle oluşan yanıklar",
+        "Sürtünme ile oluşan yanıklar",
+        "Asit ve alkali madde ile oluşan yanıklar"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hangi hastalar sıcaktan normal kişilere göre daha çok etkilenirler?",
+      "options": [
+        "Kalp hastaları",
+        "Böbrek hastaları",
+        "Şeker hastaları",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi sıcak çarpmasından korunmak için alınması gereken önlemlerdendir?",
+      "options": [
+        "Koyu renkli ve kalın giysiler giyilmelidir.",
+        "Bol miktarda sıvı tüketilmelidir.",
+        "Şapka kullanılmamalıdır.",
+        "Kapalı yerlerde durulmamalıdır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "1. derece yanıkta ilk yapılması gereken müdahale hangisidir?",
+      "options": [
+        "Soğuk uygulama yapılmalıdır.",
+        "Oluşan su dolu kesecikler patlatılmalıdır.",
+        "Yoğurt sürülmelidir.",
+        "Ağrı kesici verilmelidir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangi yanıkların hastanede tedavi edilmesi gereklidir?",
+      "options": [
+        "Elektrik yanıkları",
+        "3. derece yanıklar",
+        "Yüz ve genital bölge yanıkları",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Kimyasal yanıklarda ilk yardımda aşağıdakilerden hangisi uygulanmaz?",
+      "options": [
+        "Kimyasal madde bulaşmış giysiler çıkartılır.",
+        "Kimyasal madde temas eden bölge su ile yıkanır.",
+        "Kimyasal madde temas eden bölge oksijenli su ile temizlenir.",
+        "Hasta / yaralının üstü örtülür."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Elektrik çarpmasında ilk yardımda aşağıdakilerden hangisi uygulanır?",
+      "options": [
+        "Hasta / yaralıya dokunmadan önce elektrik akımı kesilir.",
+        "Hasta / yaralının bilinci, solunumu ve nabzı değerlendirilir.",
+        "Hasta / yaralının hareket etmemesi sağlanır.",
+        "Hepsi BİLİNÇ BOZUKLUKLARINDA İLK YARDIM"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Kısa süreli, yüzeysel ve geçici bilinç kaybına ne isim verilir?",
+      "options": [
+        "Koma",
+        "Bayılma",
+        "Sıcak çarpması",
+        "Kalp krizi ‐ 31 ‐"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yutkunma ve öksürük gibi reflekslerin ve dışarıdan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybına ne isim verilir?",
+      "options": [
+        "Bayılma",
+        "Koma",
+        "Şok",
+        "Fenalaşma"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi koma nedeni değildir?",
+      "options": [
+        "Aşırı heyecan",
+        "Zehirlenme",
+        "Şeker hastalığı",
+        "Uyuşturucu kullanımı"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Başının döneceğini hisseden birisine ilk yardımda ne yapılır?",
+      "options": [
+        "Sıkan giysiler gevşetilir.",
+        "Sırt üstü yatırılır, ayakları 30 cm yukarı kaldırılır.",
+        "Kendini iyi hissedene kadar dinlenmesi sağlanır.",
+        "Hepsi yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Koma pozisyonu hangisidir?",
+      "options": [
+        "Yarı yüzükoyun-yan pozisyon",
+        "Yarı oturur pozisyon",
+        "Sırt üstü yatar pozisyon",
+        "Yüzükoyun yatar pozisyon"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yaralının yarı yüzükoyun-yan yatırıldığı pozisyona ne isim verilir?",
+      "options": [
+        "Şok Pozisyonu",
+        "Yarı oturur pozisyon",
+        "Koma pozisyonu",
+        "Sırtüstü yatar pozisyon"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sinir sisteminin merkezindeki bir tahriş yüzünden beyinde meydana gelen elektriksel boşalmalar sonucu vücudun kas yapısında kontrol edilemeyen kasılmalar meydana gelmesine ne isim verilir?",
+      "options": [
+        "Havale",
+        "Koma",
+        "Senkop",
+        "Konversiyon"
+      ],
+      "correct": 0
+    }
+  ]
+}

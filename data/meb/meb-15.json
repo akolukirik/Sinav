@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 15/15",
+  "questions": [
+    {
+      "text": "Arı, yılan, akrep sokmasında ilk yardımda, su uygulamasında suyun sıcaklığı nasıl olmalıdır?",
+      "options": [
+        "Soğuk",
+        "Sıcak",
+        "Ilık",
+        "Su değdirilmez. ‐ 37 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hayvan ısırmalarında yapılacak ilk yardımda aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Hafif yaralanmalarda yara 5 dakika süreyle soğuk su ve sabunla yıkanır.",
+        "Yaranın üstü temiz bir bezle kapatılır.",
+        "Derhal tıbbi yardım istenir.",
+        "Kan dolaşımını engelleyebilmek için ısırık yerinin üzeri sıkıca bağlanır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi yılan ısırmalarında yapılmaz?",
+      "options": [
+        "Soğuk uygulama yapılır.",
+        "Isırılan bölge kalp seviyesinin altında tutulur.",
+        "Isırılan bölge kesilerek emilir.",
+        "Suyla yıkanır. BOĞULMALAR – GÖZ, KULAK, BURUNA YABANCI CİSİM KAÇMASINDA İLK YARDIM"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Suda boğulmalarda yapılacak ilk yardımla ilgili verilenlerden hangisi yanlıştır?",
+      "options": [
+        "Yaralı sudan çıkarılır.",
+        "Hastanın yaşamsal bulguları değerlendirilir.",
+        "Hasta sırtüstü yatırılıp karnına bastırılarak yuttuğu sular çıkarılmaya çalışılır.",
+        "Gerekiyorsa temel yaşam desteği uygulanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Boğulma nedeniyle bilinci kapalı olan H/Y’ye yapılması gereken ilk uygulama ne olmalıdır?",
+      "options": [
+        "Hastanın başına pozisyon verilerek solunumu değerlendirilir.",
+        "Hasta yüzüstü yatırılıp sırtına vurularak yuttuğu sular çıkarılır.",
+        "Hastaya kalp masajı yapılır.",
+        "Hiçbir şey yapılmadan 112’nin gelmesi beklenir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangisi boğulma nedenidir?",
+      "options": [
+        "Nefes borusuna sıvı (su) dolması",
+        "Asılma",
+        "Nefes borusuna yabancı cisim kaçması",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hangisi boğulma nedenidir?",
+      "options": [
+        "Bilinç kaybı sonucu dilin geriye kaçması",
+        "Akciğerlerin zedelenmesi",
+        "Gazla zehirlenme",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Boğulmalarda genel belirtiler nelerdir?",
+      "options": [
+        "Nefes almada güçlük",
+        "Gürültülü, hızlı ve derin solunum",
+        "Ağızda balgam toplanması ve köpüklenme",
+        "Hepsi ‐ 38 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Kulağa yabancı cisim kaçmasında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Sivri bir cisimle çıkarılır.",
+        "Su ile yıkanarak çıkarılır.",
+        "Müdahale edilmez, tıbbi yardım istenir.",
+        "Kuvvetli bir nefes verme ile cismin atılması sağlanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Boğulmalarda genel belirtiler nelerdir?",
+      "options": [
+        "Yüzde, dudaklarda ve tırnaklarda morarma",
+        "Genel sıkıntı hali",
+        "Bayılma",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Göze toz gibi küçük bir yabancı cisim kaçmasında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Yumuşak ve nemli bir bezle çıkarılmaya çalışılır.",
+        "Göz ovularak çıkarılmaya çalışılır.",
+        "Göz sabunla yıkanır.",
+        "Kuru bir bezle çıkarılmaya çalışılır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Göze metal parçası kaçmışsa ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Yumuşak ve nemli bir bezle çıkarılmaya çalışılır.",
+        "Göze dokunulmaz, tıbbi yardım istenir.",
+        "Çıkarana kadar uğraşılır.",
+        "Göz ovularak çıkarılmaya çalışılır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Buruna yabancı cisim kaçmasında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Sivri bir cisimle çıkarılır.",
+        "Su ile yıkanarak çıkarılır.",
+        "Burun duvarına bastırarak kuvvetli bir nefes verme ile cismin atılması sağlanır.",
+        "Burun kapatılır, derin nefes alarak cismin çıkması sağlanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Kulakta yabancı cisim bulunması halinde hangi uygulama yapılmamalıdır?",
+      "options": [
+        "Kulağa su değdirmemelidir.",
+        "Sivri bir cisimle müdahale edilerek cisim çıkarılmalıdır.",
+        "Kulağa yağ vb. dökülmemelidir.",
+        "Tıbbi yardım istemelidir (112)."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi boğulma nedenlerindendir?",
+      "options": [
+        "Bayılma ve bilinç kaybı sonucu dilin geriye kaçması",
+        "Nefes borusuna sıvı dolması",
+        "Akciğerlerin zedelenmesi",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Suda boğulmada aşağıdakilerden hangisini yapılmalıdır?",
+      "options": [
+        "Soluk yok ise bir şey yapılmamalıdır.",
+        "Atlama sonucu oldu ise başını oldukça arkaya iterek sudan çıkarmalıdır.",
+        "Soğuk havalarda olayın üstünden 20-30 dakika geçmiş olsa bile TYD başlanmalıdır.",
+        "Mideye yoğun baskı uygulayarak su çıkışı sağlanmalıdır. ‐ 39 ‐ TAŞIMA TEKNİKLERİ"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hangisi yaralı taşınmasında yer alan genel kurallardan birisidir?",
+      "options": [
+        "Yaralıya uzak mesafeden çalışılmalıdır.",
+        "Kısa ve zayıf kas grupları kullanılmalıdır.",
+        "Hareketleri yönlendirecek sorumlu kişi hastanın ayak tarafındaki ilk yardımcı olmalıdır.",
+        "Yaralı mümkün olduğunca az hareket ettirilmelidir."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yaralı taşınmasında yer alan genel kurallardan hangisi yanlıştır?",
+      "options": [
+        "Yaralıya yakın mesafede çalışılmalıdır.",
+        "Hızlı yürünmeli, adımlar omuzdan daha geniş olmalıdır.",
+        "Yaralı en az 6 destek noktasından kavranmalıdır.",
+        "Yaralı mümkün olduğunca az hareket ettirilmelidir."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıda verilen hasta/yaralı taşınmasındaki genel kurallardan hangisi yanlıştır?",
+      "options": [
+        "Hasta/yaralıya yakın mesafede çalışılmalıdır.",
+        "Kaldırıp indirirken özellikle sırt ve bel kasları kullanılmalıdır.",
+        "Hasta/yaralı mümkün olduğunca az hareket ettirilmelidir.",
+        "Yavaş ve düzgün adımlarla yürünmelidir."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Taşıma teknikleri için aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Güçlü olan ilk yardımcı hastanın baş kısmında durur.",
+        "Sedye ile taşıma yapılırken ön ve arkadaki taşıyıcılar yürümeye farklı ayaklarla başlamalıdır.",
+        "Taşımalar her zaman koordineli ve komutla olmalıdır.",
+        "Taşıma sırasında sırt ve gövde kasları kullanılmalıdır."
+      ],
+      "correct": 3
+    }
+  ]
+}

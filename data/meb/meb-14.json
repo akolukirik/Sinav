@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 14/15",
+  "questions": [
+    {
+      "text": "Karbon monoksit zehirlenmesi hangi durumlarda oluşur?",
+      "options": [
+        "Egzoz gazı ile",
+        "Gaz ve kömür sobası ile",
+        "Tüp kaçakları ile",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Solunum yolu ile zehirlenmelerde ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hasta temiz havaya çıkarılır.",
+        "Yaşamsal belirtiler değerlendirilir.",
+        "Yarı oturur pozisyonda tutulur.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Cilt yolu ile olan zehirlenmelerde hangisinin yapılması yanlıştır?",
+      "options": [
+        "Yaşam bulguları değerlendirilir.",
+        "Cilt 15-20 dakika boyunca bol suyla yıkanır.",
+        "Zehir bulaşmış giysiler çıkarılmaz.",
+        "Tıbbi yardım istenir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Karbon monoksit zehirlenmesi belirtileri nelerdir?",
+      "options": [
+        "Aşırı yorgunluk, grip benzeri belirtiler",
+        "Bulantı, baş dönmesi, koma ve nöbetler",
+        "Cilt ve tırnaklarda kiraz kırmızısı renk",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdaki zehirlenme yollarından hangisinde ilk yardımda hastaya yoğurt yedirilmesi yeterlidir?",
+      "options": [
+        "Solunum yoluyla",
+        "Cilt yoluyla",
+        "Sindirim yoluyla",
+        "Hiçbirinde"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi cilt yolu ile olan zehirlenme nedenlerinden değildir?",
+      "options": [
+        "İlaç enjeksiyonları",
+        "Saç boyaları",
+        "Lağım çukurlarında biriken karbondioksit",
+        "Böcek sokmaları ‐ 35 ‐"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Zehirlenmelerin genel belirtileri hangi sistemde görülür?",
+      "options": [
+        "Sinir sistemi",
+        "Dolaşım sistemi",
+        "Solunum sistemi",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Solunum yolu zehirlenmelerinde ilk yardımda hangisi yapılmaz?",
+      "options": [
+        "Yaşamsal belirtilerin değerlendirilmesi",
+        "Bilinç kapalı ise şok pozisyonu verilmesi",
+        "Yarı oturur pozisyonda tutulması",
+        "Hastanın temiz havaya çıkarılması"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Şofben zehirlenmesinde hangisi yapılmaz?",
+      "options": [
+        "Kusturulur.",
+        "Hareket ettirilmez.",
+        "Hava yolu açıklığı ve solunumu kontrol edilir.",
+        "Kişi ortamdan uzaklaştırılır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aşağıdakilerden hangisi zehirlenmelerde genel ilk yardım uygulamalarındandır?",
+      "options": [
+        "Zehirlenmeye neden olan madde ortamdan uzaklaştırılmaz.",
+        "155 polis aranır.",
+        "Gaz zehirlenmesi varsa hasta açık havaya çıkarılır.",
+        "Hasta kusturulmaya çalışılır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdakilerden hangisi sindirim yolu ile zehirlenmelerde yapılmaz?",
+      "options": [
+        "Bilinç kontrolü yapılır.",
+        "Yaşam bulguları değerlendirilir.",
+        "Hasta kusturulmaya zorlanarak rahatlatılır.",
+        "Bilinç kaybı varsa koma pozisyonu verilir. HAYVAN ISIRMALARINDA VE BÖCEK SOKMALARINDA İLK YARDIM"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hayvan ısırmaları ve böcek sokmalarıyla ilgili verilen bilgilerden hangisi doğrudur?",
+      "options": [
+        "Köpek ısırmalarında yara 5 dakika süreyle sabun ve soğuk suyla yıkanır.",
+        "Arı ve akrep sokmalarında yaraya sıcak uygulama yapılır.",
+        "Deniz canlılarının sokmalarında yaraya soğuk uygulama yapılır.",
+        "Yılan sokmalarında yara bıçakla kesilerek zehir emilir ve tükürülür."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kedi, köpek ısırmalarında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hafif yaralanmalarda yara 5 dakika süreyle sabun ve soğuk su ile yıkanır.",
+        "Yara sıcak su ile temizlenir.",
+        "Isırılan bölge yukarı kaldırılır.",
+        "Isırılan bölgenin üzerine turnike uygulanır. ‐ 36 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yılan sokmalarında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Yaraya su değdirilmez.",
+        "Sıcak uygulama yapılır.",
+        "Sokulan yer kol veya bacaklarda ise yara üstünden dolaşımı engellemeyecek şekilde bandaj uygulanır.",
+        "Yılan sokmalarında yara bıçakla kesilerek zehir emilir ve tükürülür."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Akrep ve yılan sokmalarında ilk yardım uygulamasında hangisi doğrudur?",
+      "options": [
+        "Sokulan bölge hareket ettirilmez.",
+        "Sokulan yer dikey olarak kesilerek emilir.",
+        "Sokulan bölgeye sıcak uygulama yapılır.",
+        "Sokulan bölge üzerine turnike uygulanır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Arı sokmalarında hangi belirtiler görülür?",
+      "options": [
+        "Ağrı",
+        "Şişme",
+        "Kızarıklık",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Akrep sokmalarında hangi belirtiler görülür?",
+      "options": [
+        "Ağrı, şişlik",
+        "İltihaplanma, kızarma",
+        "Morarma",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Arı sokmalarında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Sıcak uygulama yapılır.",
+        "Eğer arı ağızdan sokmuşsa buz emmesi sağlanır.",
+        "Sokulan bölge kalp seviyesinin üstünde tutulur.",
+        "Sokulan bölgenin üstünden turnike uygulanır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Deniz hayvanlarının sokmasında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Yaralı bölge hareket ettirilerek zehrin çıkması sağlanır.",
+        "Batan diken varsa ve görünüyorsa çıkartılır.",
+        "Sokulan bölgeye soğuk uygulama yapılır.",
+        "Etkilenen bölge ovulur."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Arı sokmasında ilk yardımda aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Yaralı bölge yıkanır.",
+        "Arının iğnesi yüzeyde ise çıkarılır.",
+        "Kişi ağız içinden sokuldu ise buz emmesi sağlanır.",
+        "Hepsi"
+      ],
+      "correct": 3
+    }
+  ]
+}

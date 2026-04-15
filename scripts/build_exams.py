@@ -963,13 +963,42 @@ for i, ex in enumerate(PROCESSED, start=1):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
+# exam-6.json vb. EXAMS dışı ek sınavlar — dosya varsa kataloga eklenir (üzerine yazılmaz)
+EXTRA_EXAM_FILES = ["exam-6.json"]
+for fname in EXTRA_EXAM_FILES:
+    extra_path = os.path.join(DATA, fname)
+    if not os.path.isfile(extra_path):
+        continue
+    with open(extra_path, encoding="utf-8") as f:
+        extra_doc = json.load(f)
+    n = len(extra_doc.get("questions") or [])
+    if n != 20:
+        raise ValueError("%s: 20 soru olmalı, şu an %s" % (fname, n))
+    m = fname.replace("exam-", "").replace(".json", "")
+    catalog["exams"].append(
+        {
+            "id": str(m),
+            "title": extra_doc.get("title") or ("Sınav " + str(m)),
+            "file": fname,
+        }
+    )
+
 with open(os.path.join(DATA, "exams.json"), "w", encoding="utf-8") as f:
     json.dump(catalog, f, ensure_ascii=False, indent=2)
 
 ASSETS = os.path.join(ROOT, "assets")
 embedded = []
-for i, ex in enumerate(PROCESSED, start=1):
-    embedded.append({"id": str(i), "title": ex["title"], "questions": ex["questions"]})
+for item in catalog["exams"]:
+    p = os.path.join(DATA, item["file"])
+    with open(p, encoding="utf-8") as f:
+        doc = json.load(f)
+    embedded.append(
+        {
+            "id": str(item["id"]),
+            "title": doc.get("title") or item["title"],
+            "questions": doc["questions"],
+        }
+    )
 veriler_path = os.path.join(ASSETS, "veriler.js")
 with open(veriler_path, "w", encoding="utf-8") as f:
     f.write("// Gömülü sınav listesi — düzenle veya bu script ile yeniden üret\n")
@@ -981,5 +1010,5 @@ _dist = Counter()
 for _ex in PROCESSED:
     for _q in _ex["questions"]:
         _dist[_q["correct"]] += 1
-print("Wrote exam-1..5.json, exams.json and assets/veriler.js")
-print("  CORRECT_INDEX_MODE=%r -> doğru indeks dağılımı (0=A..3=D): %s" % (CORRECT_INDEX_MODE, dict(sorted(_dist.items()))))
+print("Wrote exam-1..5.json (+ exam-6.json varsa), exams.json, assets/veriler.js")
+print("  CORRECT_INDEX_MODE=%r -> sınav 1-5 doğru indeks (0=A..3=D): %s" % (CORRECT_INDEX_MODE, dict(sorted(_dist.items()))))

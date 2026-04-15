@@ -3,6 +3,44 @@
 
   var POINTS = 5;
   var N = 20;
+  var LS_KEY = 'ilkyardimSinavSonuclari_v1';
+
+  function scoreMapRead() {
+    try {
+      var s = localStorage.getItem(LS_KEY);
+      if (!s) return {};
+      var o = JSON.parse(s);
+      return typeof o === 'object' && o !== null ? o : {};
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function scoreMapWrite(map) {
+    try {
+      localStorage.setItem(LS_KEY, JSON.stringify(map));
+    } catch (e) {}
+  }
+
+  function resultKey(bank, exam) {
+    return bank + ':' + String(exam.id != null ? exam.id : '');
+  }
+
+  function saveQuizResult(bank, exam, score, maxScore) {
+    var m = scoreMapRead();
+    m[resultKey(bank, exam)] = { score: score, max: maxScore, at: Date.now() };
+    scoreMapWrite(m);
+  }
+
+  function getQuizResult(bank, exam) {
+    return scoreMapRead()[resultKey(bank, exam)] || null;
+  }
+
+  function clearQuizResults() {
+    try {
+      localStorage.removeItem(LS_KEY);
+    } catch (e) {}
+  }
 
   function show(el, on) {
     if (!el) return;
@@ -48,25 +86,36 @@
     return null;
   }
 
+  var currentBank = 'ilkyardim';
+
   function getExams() {
-    var raw = window.ILKYARDIM_EXAMS;
+    var raw =
+      currentBank === 'meb' ? window.MEB_EXAMS : window.ILKYARDIM_EXAMS;
     if (!Array.isArray(raw) || raw.length === 0) return null;
     return raw;
   }
 
-  function goHome() {
-    show(byId('view-quiz'), false);
-    show(byId('view-home'), true);
+  function updateTabActive() {
+    document.querySelectorAll('[data-bank-tab]').forEach(function (btn) {
+      var on = btn.getAttribute('data-bank-tab') === currentBank;
+      btn.classList.toggle('exam-type-tab--active', on);
+      btn.setAttribute('aria-selected', on ? 'true' : 'false');
+    });
   }
 
-  function init() {
+  function renderExamList() {
     var exams = getExams();
     var listEl = byId('exam-list');
     var errHome = byId('home-error');
+    show(errHome, false);
 
     if (!exams) {
-      errHome.textContent = 'Sınav verisi yok. assets/veriler.js dosyası yüklü mü kontrol et.';
+      errHome.textContent =
+        currentBank === 'meb'
+          ? 'MEB soru bankası yüklenemedi (assets/meb-veriler.js eksik).'
+          : 'Sınav verisi yok. assets/veriler.js dosyası yüklü mü kontrol et.';
       show(errHome, true);
+      listEl.innerHTML = '';
       return;
     }
 
@@ -75,6 +124,7 @@
       if (v) {
         errHome.textContent = v;
         show(errHome, true);
+        listEl.innerHTML = '';
         return;
       }
     }
@@ -84,10 +134,36 @@
       (function (exam) {
         var li = document.createElement('li');
         li.className = 'exam-card';
+        var prev = getQuizResult(currentBank, exam);
+        if (prev) li.classList.add('exam-card--completed');
+
+        var head = document.createElement('div');
+        head.className = 'exam-card-head';
         var h2 = document.createElement('h2');
         h2.textContent = exam.title;
+        head.appendChild(h2);
+        var isKarma =
+          currentBank === 'ilkyardim' &&
+          (String(exam.id) === '6' ||
+            (exam.title && String(exam.title).indexOf('Karma') !== -1));
+        if (isKarma) {
+          var pill = document.createElement('span');
+          pill.className = 'pill pill--new';
+          pill.textContent = 'Yeni';
+          pill.setAttribute('aria-label', 'Yeni set');
+          head.appendChild(pill);
+        }
+        li.appendChild(head);
+
+        if (prev) {
+          var scoreP = document.createElement('p');
+          scoreP.className = 'exam-card-last-score';
+          scoreP.textContent = 'Son not: ' + prev.score + ' / ' + prev.max;
+          li.appendChild(scoreP);
+        }
+
         var p = document.createElement('p');
-        p.textContent = N + ' soru · en fazla ' + N * POINTS + ' puan';
+        p.textContent = N + ' soru';
         var btn = document.createElement('button');
         btn.type = 'button';
         btn.className = 'btn btn-primary';
@@ -95,12 +171,63 @@
         btn.addEventListener('click', function () {
           startQuiz(exam);
         });
-        li.appendChild(h2);
         li.appendChild(p);
         li.appendChild(btn);
         listEl.appendChild(li);
       })(exams[j]);
     }
+  }
+
+  var bankTabsBound = false;
+
+  function setupBankTabs() {
+    if (bankTabsBound) return;
+    bankTabsBound = true;
+    document.querySelectorAll('[data-bank-tab]').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var bank = btn.getAttribute('data-bank-tab');
+        if (bank === currentBank) return;
+        if (byId('view-quiz') && !byId('view-quiz').classList.contains('hidden')) {
+          goHome();
+        }
+        currentBank = bank;
+        updateTabActive();
+        renderExamList();
+      });
+    });
+  }
+
+  function goHome() {
+    show(byId('view-quiz'), false);
+    show(byId('view-home'), true);
+    renderExamList();
+  }
+
+  var resetBound = false;
+
+  function setupResetScores() {
+    if (resetBound) return;
+    resetBound = true;
+    var b = byId('btn-reset-scores');
+    if (!b) return;
+    b.addEventListener('click', function () {
+      if (
+        !confirm(
+          'Kayıtlı tüm sınav notlarını silmek istiyor musun? Bu işlem geri alınamaz.'
+        )
+      ) {
+        return;
+      }
+      clearQuizResults();
+      renderExamList();
+    });
+  }
+
+  function init() {
+    setupBankTabs();
+    setupResetScores();
+    updateTabActive();
+    renderExamList();
   }
 
   function startQuiz(exam) {
@@ -203,6 +330,7 @@
         byId('result-total').textContent = 'Toplam puan: ' + score;
         byId('result-score').textContent = score + ' / ' + maxScore;
         byId('result-detail').textContent = state.correct + ' doğru · ' + (N - state.correct) + ' yanlış';
+        saveQuizResult(currentBank, exam, score, maxScore);
       }
     };
 

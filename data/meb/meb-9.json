@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 9/15",
+  "questions": [
+    {
+      "text": "Kanamanın ciddiyeti aşağıdaki hangi duruma bağlı değildir?",
+      "options": [
+        "Kanamanın hızına",
+        "Vücutta kanın aktığı bölgeye",
+        "Kanamanın sızıntı şeklinde olmasına",
+        "Kanama miktarına"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdakilerden hangisi doğal deliklerden olan kanamalardan değildir?",
+      "options": [
+        "Kulak kanaması",
+        "Burun Kanaması",
+        "Anüs kanaması",
+        "Beyin kanaması"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hangisi kanamalarda ilk yardım uygulamalarından değildir?",
+      "options": [
+        "Yaralının durumu değerlendirilir (AB",
+        ".",
+        "Yara ya da kanama değerlendirilir.",
+        "Yara üzerine baskı uygulanır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Kanayan bölge aşağıya doğru indirilir.",
+        "Kanayan yere en yakın basınç noktasına baskı uygulanır.",
+        "Kanama durdurulamıyorsa turnike uygulanır.",
+        "Uzuv kopması varsa turnike uygulanır. ‐ 22 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Turnike uygulaması hakkında hangisi doğrudur?",
+      "options": [
+        "Turnike kol ve uyluk gibi tek kemikli bölgelere uygulanır.",
+        "Turnike kanamanın durdurulmasında ilk yapılması gereken uygulamadır.",
+        "Turnike görülmeyecek şekilde hasta/yaralının üzeri örtülür.",
+        "Turnike uygulandıktan 1 saat sonra açılır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kanamalarla ilgili söylenemez?",
+      "options": [
+        "Kanamalarda hastaya şok pozisyonu verilir.",
+        "Kanaması olan hasta/ yaralının 2-3 dakikada bir yaşam bulguları değerlendirilir.",
+        "Kanayan bölgenin üzeri görülmeyecek şekilde örtülür.",
+        "Hasta/ yaralının hızla sevk edilmesi sağlanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdakilerden hangisi uzuv kopmasında ilk yardım uygulaması için yanlıştır?",
+      "options": [
+        "Kopmuş uzuv parçası su geçirmeyen bir plastik torbaya konur.",
+        "Uzuv parçasının konduğu plastik torbaya buzlu su doldurulur.",
+        "Kopan parçanın buz ile direk teması önlenir.",
+        "Uzvun sahibine ait kimlik bilgileri kaydedilerek sağlık kuruluşuna sevki sağlanır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kanamanın ciddiyeti aşağıdaki hangi duruma bağlıdır?",
+      "options": [
+        "Kişinin ciddiyetine",
+        "Kişinin fiziksel durumu ve yaşına",
+        "Kişinin cinsiyetine",
+        "Kişinin ruhsal durumuna"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Kopmuş uzuv parçası, su geçirmeyen bir plastik torbaya konur.",
+        "Kopan parçanın buz ile direk teması önlenir.",
+        "Kopan parçanın sahibiyle birlikte sağlık kuruluşuna gitmesi sağlanır.",
+        "Parça polise verilir."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hangi durumda turnike uygulanmaz?",
+      "options": [
+        "Baskı noktalarına baskı uygulandığı halde kanama durmuyorsa",
+        "Hasta/ yaralı güç koşullarda bir yere taşınacaksa",
+        "Uzuv kopmalarında",
+        "Baskı uygulamakla durdurulabilen kanamalarda"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kanamanın durdurulması için kullanılabilecek bası noktası değildir?",
+      "options": [
+        "Koltukaltı",
+        "Kolun üst bölümü",
+        "Ayak sırtı",
+        "Kasık"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Atardamar kanamaları niçin daha önemlidir?",
+      "options": [
+        "Kısa sürede daha çok kan kaybı olur.",
+        "Temiz kan olduğu için kıymetlidir.",
+        "Büyük damarlardır.",
+        "Vücutta daha çok atardamar vardır. ‐ 23 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kanamalarda ilk yardımda kullanılan baskı noktalarını açıklar?",
+      "options": [
+        "Uzuvlara kan taşıyan atardamarların elle baskı uygulanabilen bölümleridir.",
+        "Uzuvlara kan taşıyan toplardamarların elle baskı uygulanabilen bölümleridir.",
+        "Uzvun en ince bölümüdür.",
+        "Vücuttaki damarların ciltten görülebilen bölümüdür."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Üçgen bandaj nerelerde kullanılır?",
+      "options": [
+        "Yaralanmalarda bandaj olarak",
+        "Kırık, çıkık, burkulmalarda askı olarak",
+        "Yanıklarda örtücü bandaj olarak",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Turnikeyi ne kadar sıkılmalıdır?",
+      "options": [
+        "Gücümüz yetene kadar",
+        "Kanama duruncaya kadar",
+        "Çubuğun döndüğü kadar",
+        "İpin dayanma gücünün sonuna kadar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Kanamada ilk yardımda neler yapılmalıdır?",
+      "options": [
+        "Hastaya şok pozisyonu verilir.",
+        "Kanayan bölgeye doğrudan baskı uygulanır.",
+        "Kanayan bölge kap seviyesi üstünde tutulur.",
+        "Hepsi yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "İç kanamada ilk yardımda neler yapılmalıdır?",
+      "options": [
+        "Hastanın bilinci ve ABC’si değerlendirilir.",
+        "Hastaya şok pozisyonu verilir.",
+        "Tıbbi yardım istenir.",
+        "Hepsi yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hafif kulak kanamasında ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "Hasta/yaralı sakinleştirilir, endişeleri giderilir.",
+        "Kulak temiz bir bezle temizlenir.",
+        "Bilinç durumuna göre sağlık kuruluşuna haber verilir.",
+        "Hepsi yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ciddi kulak kanamasında ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "Hasta/yaralı sakinleştirilir, endişeleri giderilir.",
+        "Kulağı tıkamadan temiz bir bezle kapatılır.",
+        "Sağlık kuruluşuna haber verilir.",
+        "Hepsi yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Şok nedir?",
+      "options": [
+        "Ani gelişen dolaşım yetmezliğidir.",
+        "Ani bir haber duyunca görülen şaşkınlıktır.",
+        "Kan basıncında oluşan ani yükselmedir.",
+        "Beyin sarsıntısıdır. ‐ 24 ‐"
+      ],
+      "correct": 0
+    }
+  ]
+}

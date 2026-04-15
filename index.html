@@ -2,15 +2,29 @@
 <html lang="tr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>İlk yardım sınavları</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>İlk Yardım Sınavı</title>
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
   <body>
     <main id="view-home">
-      <header class="site-header">
-        <h1>İlk yardım sınavları</h1>
+      <header class="site-header site-header--home">
+        <h1 class="app-title">İlk Yardım Sınavları 🌱</h1>
       </header>
+      <div class="exam-type-tabs" role="tablist" aria-label="Soru kaynağı">
+        <button type="button" class="exam-type-tab exam-type-tab--active" data-bank-tab="ilkyardim" role="tab" aria-selected="true">
+          İlk Yardım
+        </button>
+        <button type="button" class="exam-type-tab" data-bank-tab="meb" role="tab" aria-selected="false">
+          <span class="pill pill--new" aria-hidden="true">Yeni</span>
+          <span class="exam-type-tab-label">MEB Soru Bankası</span>
+        </button>
+      </div>
+      <p class="home-toolbar">
+        <button type="button" class="btn-link-danger" id="btn-reset-scores">
+          Kayıtlı notları sıfırla
+        </button>
+      </p>
       <p id="home-error" class="error-banner hidden" role="alert"></p>
       <ul id="exam-list" class="exam-list" aria-live="polite"></ul>
     </main>
@@ -39,7 +53,7 @@
           <p id="feedback" class="feedback hidden" aria-live="assertive"></p>
         </section>
 
-        <div class="btn-row">
+        <div class="btn-row btn-row--quiz-nav">
           <button type="button" class="btn btn-primary" id="btn-next" disabled>Sonraki</button>
         </div>
       </div>
@@ -61,6 +75,7 @@
     <footer class="page-footer-sprout" title="Filiz" aria-hidden="true">🌱</footer>
 
     <script src="./assets/veriler.js"></script>
+    <script src="./assets/meb-veriler.js"></script>
     <script src="./assets/app.js"></script>
   </body>
 </html>

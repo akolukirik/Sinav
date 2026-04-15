@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 5/15",
+  "questions": [
+    {
+      "text": "Bebeklerde temel yaşam desteği ile ilgili verilen şıklardan hangisi yanlıştır?",
+      "options": [
+        "Bebeklerde bilinç kontrolü ayak tabanına vurularak yapılır.",
+        "Bebeklerde ilk yardımcı yalnız ise önce 112’yi aramalıdır.",
+        "Bebeklerde ağız içi kontrolünde kör dalış yapılmaz.",
+        "Bebeklerde temel yaşam desteği, 2 kurtarıcı soluk verildikten sonra 30 dış kalp masajı -2 solunum olarak uygulanır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bebeklerde temel yaşam desteği ile ilgili açıklamalardan hangisi doğrudur?",
+      "options": [
+        "Kurtarıcı soluk sayısı 2 olmalıdır.",
+        "Nefes ağız dolusu, ağzı içine alacak şekilde verilir.",
+        "Göğüs kafesi 1/4 oranında çöktürülür.",
+        "Kalp masajı ve yapay solunum oranı 5/1 olacak şekilde yapılır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Dış kalp masajı ve yapay solunuma ne zaman son verilir?",
+      "options": [
+        "10 dakika yapıldıktan sonra",
+        "Sağlık ekibi gelince",
+        "30 dakika yapıldıktan sonra",
+        "Polis gelince"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Trafik kazasında araç içinde bilinci açık, görünür bir kanaması ve kırığı olmayan bir hastaya ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "Koma pozisyonu verilir.",
+        "Sağlık ekipleri gelene kadar hastanın yanında kalıp endişeleri giderilir.",
+        "Dış kalp masajı ve yapay solunum yapılır.",
+        "Hasta en yakın hastaneye taşınır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Erişkinde temel yaşam desteği uygulanırken aşağıdakilerden hangisi yapılmaz?",
+      "options": [
+        "Suni solunum",
+        "Dış kalp masajı",
+        "Ağız içi kontrolü",
+        "Hastaya yarı oturur pozisyon verilir. ‐ 12 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bebeklerde temel yaşam desteği uygulanırken aşağıdakilerden hangisi yapılmaz?",
+      "options": [
+        "Suni solunum",
+        "Dış kalp masajı",
+        "Ağıza kör dalış",
+        "Başa – çene pozisyonu"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Otomatik eksternal defibrilatör (OE",
+      "options": [
+        "cihazı nedir?",
+        "Kalp masajı uygulayan cihazdır.",
+        "Kalbe şok uygulayan cihazdır.",
+        "Hasta/yaralının solunumunu değerlendiren cihazdır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi otomatik eksternal defibrilatörler için söylenemez?",
+      "options": [
+        "Kalbin pompa işlevini yapmasına engel olan elektriksel bozuklukları ortadan kaldırırlar.",
+        "Hafif, taşınabilir ve kullanımları kolaydır.",
+        "Herkes tarafından kolayca kullanılabilirler.",
+        "Kalp durmasından 3-5 dakika sonrasında uygulanırlarsa sağ kalıma önemli katkı sağlarlar."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdaki hangi durumda OED kullanılmamalıdır?",
+      "options": [
+        "Islak zeminde",
+        "Ortamda yoğun oksijen varlığında",
+        "Metal zeminde",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi OED için doğru bir ifade değildir?",
+      "options": [
+        "OED’nin tam ve yarı otomatik çeşitleri vardır.",
+        "OED uygulaması sırasında kalbe verilen şok hastaya zarar verebilir.",
+        "OED kullanımı temel yaşam desteği uygulamasının içinde yer alır.",
+        "OED’lerin çok farklı çeşitleri olsa da kullanım ilkeleri aynıdır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi OED pedlerinin yerleştirilmesi sırasında dikkat edilmesi gereken kurallardandır?",
+      "options": [
+        "Pedler, göğsün neresine yerleştirilmesi gerektiğini gösteren bir şema ile birlikte geldiğinden tereddüt edilmesi halinde bu şemadan yararlanılmalıdır.",
+        "Pedler çıplak göğse sıkıca yapıştırılmalıdır.",
+        "Pedler yapıştırıldıktan sonra birbirine değmemelidir.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "OED kullanımı sırasında dikkat edilmesi gereken kurallardan hangisi doğrudur?",
+      "options": [
+        "Pedlerin yapıştırılacağı bölge kuru olmalıdır.",
+        "Pedler açık yara üzerine yapıştırılmamalıdır.",
+        "Kalp pili olan hastada pedler kalp pilinin 2,5 cm uzağına yapıştırılmalıdır.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bebek ve çocuklarda OED uygulamasında; çocuk pedi olmaması hâlinde standart yetişkin pedleri nereye yerleştirilmelidir?",
+      "options": [
+        "Pedlerden biri göğüs kemiğinin sağına diğeri sol tarafına yerleştirilmelidir.",
+        "Pedler göğüs kemiğinin üzerine alt alta yerleştirilmelidir.",
+        "Pedlerden biri sırta iki kürek kemiğinin arasına; diğeri göğsün ön kısmına yerleştirilmelidir.",
+        "Pedlerden biri sağ köprücük kemiği üzerine; diğeri sol köprücük kemiği üzerine yerleştirilmelidir. ‐ 13 ‐"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aşağıdakilerden hangisi OED kullanımı ile ilgili doğru bilgidir?",
+      "options": [
+        "OED cihazı hasta/yaralının yanına yatay pozisyonda yerleştirilir.",
+        "Sekiz yaş altı çocuklarda pedler büyükse ve pedlerin birbirine değme riski varsa ön- arka pozisyonda yerleştirilir.",
+        "Yaşam belirtisi gösteren hastanın pedleri çıkarılmaz.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi OED kullanımı için doğru değildir?",
+      "options": [
+        "OED’ler solunum kontrolü de yaptığından ilk yardımcının solunumu değerlendirmesine gerek yoktur.",
+        "OED kalp ritmini analiz ederken hasta/yaralıya dokunulmaz.",
+        "OED şok verirken hasta/yaralıya dokunulmaz.",
+        "İki ilk yardımcı varlığında bir ilk yardımcı temel yaşam desteği yaparken diğer ilk yardımcı OED pedlerini yerleştirmelidir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "OED ve TYD uygulamasından sonra yaşam belirtisi gösteren hastaya hangi pozisyon verilmelidir?",
+      "options": [
+        "Şok pozisyonu",
+        "Derlenme pozisyonu",
+        "Yüzükoyun pozisyon",
+        "Sırtüstü pozisyon"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Solunum yolu tam olarak tıkanmış bir kişide aşağıdakilerden hangisi görülür?",
+      "options": [
+        "Öksürür.",
+        "Derin nefes alır.",
+        "Konuşamaz.",
+        "Karın ağrısı olur."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Solunum yolu kısmi olarak tıkanmış bir kişide aşağıdakilerden hangisi görülür?",
+      "options": [
+        "Öksürür.",
+        "Nefes alamaz.",
+        "Konuşamaz.",
+        "Karın ağrısı olur."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hava yolunun, solunumu gerçekleştirmek için gerekli havanın geçmesine engel olacak şekilde tıkanmasına ne isim verilir?",
+      "options": [
+        "Kalp durması",
+        "Kalp krizi",
+        "Hava yolu tıkanıklığı",
+        "Hava embolisi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hava yolunda tam tıkanıklık olan bir hastaya ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "Karına bası uygulanır.",
+        "Kalp masajı yapılır.",
+        "Koma pozisyonu verilir.",
+        "Şok pozisyonu verilir. ‐ 14 ‐"
+      ],
+      "correct": 0
+    }
+  ]
+}

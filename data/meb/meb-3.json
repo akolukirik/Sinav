@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 3/15",
+  "questions": [
+    {
+      "text": "Hangisi olay yerinin değerlendirmesi sırasında yapılması gereken işlerdendir?",
+      "options": [
+        "Meraklı kişiler olay yerinden uzaklaştırılmalıdır.",
+        "Olay yerinde sigara içilmemelidir.",
+        "Kontak kapatılarak, el frenini çekilmelidir.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Olay yerinin değerlendirilmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Yaralının paniğe kapılmasını engellemek için yarasını görmesine izin verilmelidir.",
+        "Hasta sıcak tutulmalıdır.",
+        "Yardım ekibi gelene kadar olay yerinde kalınmalıdır.",
+        "Yaralı yerinden oynatılmamalıdır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Gaz zehirlenmesi olan bir odaya girildiğinde ilk yapılması gereken hangisidir?",
+      "options": [
+        "Kapı ve pencereler açılıp oda havalandırılmalıdır.",
+        "Hastanın ABC’si değerlendirilmelidir.",
+        "Hastaya suni solunum uygulanmalıdır.",
+        "Hasta koma pozisyonuna getirilmelidir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hasta/yaralının değerlendirilmesinin amacı nedir?",
+      "options": [
+        "Hastalık ya da yaralanmanın ciddiyetini değerlendirmek",
+        "İlk yardım önceliklerini belirlemek",
+        "Yapılacak ilk yardım yöntemini belirlemek",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hasta/yaralı değerlendirilirken ilk önce aşağıdakilerden hangisi kontrol edilmelidir?",
+      "options": [
+        "Solunum yolu açıklığı",
+        "Solunum durumu",
+        "Bilinç durumu",
+        "Dolaşım durumu"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hasta/yaralının ilk değerlendirmesinde bilinç kapalı, solunumu ve nabzı varsa yapılması gereken nedir?",
+      "options": [
+        "Kalp masajı yapılır.",
+        "Suni solunum yapılır.",
+        "Bulunduğu pozisyonda bırakılır.",
+        "İkinci değerlendirme yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hasta/yaralının ikinci değerlendirmesinde genel vücut muayenesi hangi sırayla yapılır?",
+      "options": [
+        "Baş - boyun - gövde - kol ve bacaklar",
+        "Kol ve bacaklar - baş - boyun - gövde",
+        "Gövde - boyun - baş - kol ve bacaklar",
+        "Baş - kol ve bacaklar - boyun - gövde ‐ 7 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Bilinci açık olan bir hastanın ikinci değerlendirmesinde ilk olarak ne yapılmalıdır?",
+      "options": [
+        "Baş boyun muayenesi",
+        "Kendini tanıtma",
+        "Vücut ısısının değerlendirilmesi",
+        "Yaralının öz geçmişini sorma"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hasta/ yaralının ilk değerlendirilmesinde hangi işlemler yapılmalıdır?",
+      "options": [
+        "Çevre güvenliği sağlanır.",
+        "Bilinç kontrolü yapılır.",
+        "Hasta/yaralının ABC’si değerlendirilir.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "İlk yardım uygulaması sırasında hava yolu açıklığı nasıl sağlanır?",
+      "options": [
+        "2 kurtarıcı soluk verilir.",
+        "Ağıza kör dalış yapılır.",
+        "Baş- çene pozisyonu verilir.",
+        "Bak-dinle-hisset yöntemi uygulanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hasta/yaralının solunumu nasıl değerlendirilir?",
+      "options": [
+        "Bak-dinle-hisset yöntemi ile 10 sn. dinlenir.",
+        "Nabza bakılır.",
+        "“İyi misiniz” diye sorulur.",
+        "Yanındakilere sorulur."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Nabız nedir?",
+      "options": [
+        "Kalp atımlarının atardamara yaptığı basınçtır.",
+        "Kalp atımlarının toplardamara yaptığı basınçtır.",
+        "Nefes alma sırasında göğsün şişme miktarıdır.",
+        "Temel yaşam desteğinde göğse uygulanan bası miktarıdır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangisi ikinci değerlendirme aşamalarından biridir?",
+      "options": [
+        "Görüşerek bilgi edinme",
+        "Çevre güvenliğini sağlama",
+        "Temel yaşam desteği uygulama",
+        "112’ye bildirme"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Hangisi ikinci değerlendirme aşamalarından biridir?",
+      "options": [
+        "Ağız içi kontrolü yapma",
+        "Temel yaşam desteği uygulama",
+        "Tüm vücudu kontrol etme",
+        "Baş-çene pozisyonu verme"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Hangisi görüşerek bilgi edinme aşamasında yer alır?",
+      "options": [
+        "Kendini tanıtma",
+        "Hasta/yaralını ismini öğrenip adıyla hitap etme",
+        "Hoş görülü ve nazik davranma",
+        "Hepsi ‐ 8 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hangisi ikinci değerlendirme aşamalarındandır?",
+      "options": [
+        "Bilinç düzeyi, anlama, algılama kontrol edilir.",
+        "Solunum sayısı, ritmi, derinliği kontrol edilir.",
+        "Nabız sayısı, ritmi, şiddeti kontrol edilir.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi yaşam bulgularından değildir?",
+      "options": [
+        "Bilinç",
+        "Solunum",
+        "Vücut ısısı",
+        "Boşaltım"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdaki bilinç durumlarının hangisinde hasta/yaralıya koma pozisyonu verilmelidir?",
+      "options": [
+        "Sözlü ve gürültülü uyarılara cevap verir.",
+        "Ağrılı uyaranlara cevap verir.",
+        "Tüm uyaranlara karşı kapalıdır.",
+        "Tüm uyaranlara cevap verir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "İlk yardımda vücut ısısı nereden alınır?",
+      "options": [
+        "Alından",
+        "Koltuk altından",
+        "Ağızdan",
+        "Anüsten"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ideal vücut ısısıdır?",
+      "options": [
+        "31⁰ C altı",
+        "34,5 ⁰C altı",
+        "36,5 ⁰C",
+        "41-42 ⁰C üstü"
+      ],
+      "correct": 2
+    }
+  ]
+}

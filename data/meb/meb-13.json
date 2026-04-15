@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 13/15",
+  "questions": [
+    {
+      "text": "Yüksek ateş nedeniyle oluşan havaleyle ilgili yazılanlardan hangisi yanlıştır?",
+      "options": [
+        "Herhangi bir ateşli hastalık sonucu oluşabilir.",
+        "Genellikle 6 yaşından büyük çocuklarda görülür.",
+        "Vücut sıcaklığının 38° C’nin üstüne çıkmasıyla oluşur.",
+        "İlk yardımda hasta öncelikle ıslak havluya sarılır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sara kriziyle ilgili yazılanlardan hangisi yanlıştır?",
+      "options": [
+        "Herhangi bir nedenle beyin zedelenmesi oluşan kişilerde gelişir.",
+        "Uzun süreli açlık, uykusuzluk, aşırı yorgunluk sara krizinin ortaya çıkmasına neden olabilir.",
+        "Hastada normalde olmayan kokuları alma gibi ön belirtiler oluşur.",
+        "Sara hastaları kriz geçirirken kendilerini koruyarak yere düşerler. ‐ 32 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi sara krizi geçiren kişiye yapılan doğru uygulamadır?",
+      "options": [
+        "Hasta sıkıca bağlanarak kendine zarar vermesi önlenir.",
+        "Hastanın çenesi açılarak dişlerinin arasına sert bir cisim yerleştirilir.",
+        "Kolonya, soğan vb. maddeler koklatılır.",
+        "Kriz kendi sürecini tamamlamaya bırakılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi şok pozisyonunu açıklar?",
+      "options": [
+        "Hastanın başı aşağıda olacak şekilde ayakları 30 cm yukarı kaldırılır.",
+        "Hasta düz olarak sırt üstü yatırılır, ayakları 30 cm yukarı kaldırılır",
+        "Hasta yarı-yüzükoyun yatırılır.",
+        "Hastanın başının altına yumuşak bir şey konularak ayakları 60 cm yukarı kaldırılır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Korku, terleme, hızlı nabız, titreme, aniden acıkma, yorgunluk, bulantı gibi belirtiler hangi durumda görülür?",
+      "options": [
+        "Ani kan şekeri düşmesi",
+        "Kalp krizi",
+        "Sara nöbeti",
+        "Havale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kan şekeri düşmesinde ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hastaya ağızdan bir şey verilmez.",
+        "Hastanın bilinci yerinde ve kusmuyorsa ağızdan şekerli içecekler verilir.",
+        "Hasta kusuyorsa ağızdan sıvı verilir.",
+        "Hiçbiri"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Göğüs ağrısında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hasta şok pozisyonuna getirilir.",
+        "Hasta hemen dinlenmeye alınır, sakinleştirilir.",
+        "Hasta koma pozisyonuna getirilir.",
+        "Hastaya kalp masajı yapılır."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Göğüs ağrısı olan bir hastada ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hasta hemen dinlenmeye alınır, sakinleştirilir.",
+        "Hastaya yarı oturur pozisyon verilir.",
+        "Kullandığı ilaçlar varsa almasına yardım edilir.",
+        "Hepsi yapılır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Göğsünde kuvvetli bir ağrısı olan hasta hangi pozisyona alınmalıdır?",
+      "options": [
+        "Şok pozisyonu",
+        "Yarı oturur pozisyon",
+        "Koma pozisyonu",
+        "Yüzüstü yatar pozisyon"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Bilinç bozukluklarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Ateş nedeniyle oluşan havalede hasta ıslak havlu ya da çarşafa sarılır.",
+        "Bayılma kısa süreli, yüzeysel ve geçici bilinç kaybıdır.",
+        "Koma, reflekslerin ve gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybıdır.",
+        "Kan şekeri düşmesinde hastaya ağızdan kesinlikle bir şey verilmez. ‐ 33 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi bayılma nedenlerindendir?",
+      "options": [
+        "Korku, aşırı heyecan",
+        "Sıcak, yorgunluk, kapalı ortam",
+        "Aniden ayağa kalkma, kan şekerini düşmesi",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aşağıdakilerden hangisi koma nedeni değildir?",
+      "options": [
+        "Aniden ayağa kalkma",
+        "Düşme",
+        "Aşırı alkol",
+        "Havale gibi ateşli hastalıklar"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kalp kaynaklı göğüs ağrısı belirtilerinden değildir?",
+      "options": [
+        "Sıkıntı veya nefes darlığı",
+        "Göğüs ortasından başlayıp kollara, sırta, boyuna ve çeneye yayılan ağrı",
+        "Şiddeti ve şekli değişmeyen 5-10 dakikalık ağrı",
+        "İstirahatle daha da artan ağrı"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sara krizinde yapılan ilk yardım uygulaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Kilitlenmiş çene açılmaya çalışılır.",
+        "Hasta sıkıca bağlanır.",
+        "Kolonya veya soğan koklatılır.",
+        "Kendi haline bırakılır, kafasını çarpmaması için önlem alınır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ateş nedeniyle oluşan havalede yapılan ilk yardım uygulamalarından hangisi yanlıştır?",
+      "options": [
+        "Tıbbi yardım istenir.",
+        "Hasta buzlu suya sokulur.",
+        "Öncelikle hasta ıslak havlu ya da çarşafa sarılır.",
+        "Oda sıcaklığında bir küvete sokulur. ZEHİRLENMELERDE İLK YARDIM"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi genel zehirlenme belirtilerinden birisi değildir?",
+      "options": [
+        "Baş ağrısı",
+        "Kasılmalar",
+        "Nefes darlığı",
+        "Deride içi su dolu kabarcıklar"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Solunum yoluyla oluşan zehirlenmelerde hasta hangi pozisyonda tutulmalıdır?",
+      "options": [
+        "Yüzükoyun pozisyon",
+        "Şok pozisyonu",
+        "Yarı oturur pozisyon",
+        "Sırt üstü pozisyon"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Vücuda yabancı bir maddenin girmesi sonucu normal fonksiyonların bozulmasına ne isim verilir?",
+      "options": [
+        "Kanama",
+        "Kırık",
+        "Boğulma",
+        "Zehirlenme ‐ 34 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sebebi bilinmeyen sindirim yolu zehirlenmelerinde ilk yardımda yapılması yanlış olan uygulama hangisidir?",
+      "options": [
+        "Bilinç kontrolü yapılır.",
+        "Yaşam bulguları değerlendirilir.",
+        "Hasta kusturulmaya zorlanarak rahatlatılır.",
+        "Bilinç kaybı varsa koma pozisyonu verilir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Gazdan zehirlenme olan bir ortamda ilk yardımcı müdahale sırasında kendisini korumak için hangisini kullanmalıdır?",
+      "options": [
+        "Islak bez",
+        "Kuru bez",
+        "Elastik bandaj",
+        "Kalın, kısa bir tahta parçası"
+      ],
+      "correct": 0
+    }
+  ]
+}

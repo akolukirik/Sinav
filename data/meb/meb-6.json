@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 6/15",
+  "questions": [
+    {
+      "text": "Hava yolunda kısmi tıkanıklık olan bir hastaya ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "Karına bası uygulanır.",
+        "Kalp masajı yapılır.",
+        "Koma pozisyonu verilir.",
+        "Hastaya dokunulmaz, öksürmeye teşvik edilir."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bilinci açık bebekte hava yolunda tam tıkanıklık varsa ilk yardımda ne yapılmalıdır?",
+      "options": [
+        "5 kez sırta vuru, 5 kez göğüs kemiğine bası uygulanır.",
+        "Kalp masajı yapılır.",
+        "Koma pozisyonu verilir.",
+        "Dokunulmaz, öksürmeye teşvik edilir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yetişkinlerde yapılan dış kalp masajıyla ilgili yazılanlardan hangisi doğrudur?",
+      "options": [
+        "Kalp masajı tek elle yapılır.",
+        "Kalp masajı yapılırken hastaya uzak durulmalıdır.",
+        "Göğse baskı uygulanırken kollar bükülmeden vücut ağırlığıyla baskı uygulanır.",
+        "Kalp masajı göğüs kemiğinin altına uygulanır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Solunumu ve kalbi durmuş kişiye 5 dakika içinde müdahale edilmesi neden önemlidir?",
+      "options": [
+        "Solunum kendiliğinden başlar.",
+        "Dokuların oksijenlenmesi bozulacağı için beyin hasarı başlar.",
+        "Hiçbir şey olmaz.",
+        "Göğüs ağrısı başlar."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yetişkinde boğulma durumunda ilk yardımcı yalnızsa 112 ne zaman aranır?",
+      "options": [
+        "Hemen aranır.",
+        "15 dakika temel yaşam desteği uyguladıktan sonra aranır.",
+        "5 tur temel yaşam desteği uyguladıktan sonra aranır.",
+        "1 tur temel yaşam desteği uyguladıktan sonra aranır."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yetişkin bir hastada boğulma dışında ilk yardımcı yalnızsa 112 ne zaman aranmalıdır?",
+      "options": [
+        "Temel yaşam desteğine başlamadan önce aranır.",
+        "Bilinç kontrolünden sonra aranır.",
+        "1 tur temel yaşam desteği uyguladıktan sonra aranır.",
+        "5 tur temel yaşam desteği uyguladıktan sonra aranır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yetişkin hasta/yaralıda baş- çene pozisyonu verilirken nelere dikkat edilmelidir?",
+      "options": [
+        "Bir el alında, diğer elin iki parmağı çenede olmalıdır.",
+        "Alt çene yere 90 derece dik olmalıdır.",
+        "Çok dikkatli ve hassas davranılmalıdır.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Baş- çene pozisyonunun veriliş amacı nedir?",
+      "options": [
+        "Kalbi çalıştırmak.",
+        "Kişiyi beslemek için ağzını açmak.",
+        "Solunum yolunu kapatarak soluk borusuna bir şey kaçmasını önlemek.",
+        "Dilin soluk borusunu kapatmasını önleyerek havayolunu açmak. ‐ 15 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ağız içi kontrolü ne zaman yapılır?",
+      "options": [
+        "Bilinç kontrolünden önce.",
+        "Kalp masajından önce.",
+        "Baş -çene pozisyonundan önce.",
+        "İkinci değerlendirmeden önce."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ağız içi kontrolü ne amaçla yapılır?",
+      "options": [
+        "Hasta/yaralının en son ne yediğini anlamak için",
+        "Dişlerini saymak için",
+        "Ağız içinde bulunabilecek materyallerin solunum yolunu tıkamaması için",
+        "Dişlerini fırçalama sıklığını anlamak için"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yetişkinde yapay solunum uygulamasında aşağıdakilerden hangisi yapılmaz?",
+      "options": [
+        "Hastaya baş-çene pozisyonu verilir.",
+        "Hastanın burun delikleri kapatılır.",
+        "İlk yardımcı hastanın ağzını kendi ağzı içine alır.",
+        "İlk yardımcı bir eliyle hastanın nabzını tutar."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yetişkinde yapay solunum uygulaması için aşağıdakilerden hangisini yapmak gerekir?",
+      "options": [
+        "İlk yardımcının kendini koruması için hastanın ağzına ince bir tülbent örtmesi gerekir.",
+        "Hastanın ayaklarını 30 cm yukarı kaldırmak gerekir.",
+        "Hastaya koma pozisyonu vermek gerekir.",
+        "Hastanın başını öne eğmek gerekir."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yetişkinde yapay solunum uygulamasında aşağıdakilerden hangisini yapmak gerekir?",
+      "options": [
+        "Hastanın akciğerlerine bir tam nefes verilmelidir.",
+        "Üfleme göğsü kaldıracak kadar olmalıdır.",
+        "Her üfleme 1 saniyeden uzun sürmelidir.",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yetişkinde yapay solunum sırasında hava gitmiyorsa ilk olarak ne yapmak gerekir?",
+      "options": [
+        "Karına bası uygulamak gerekir.",
+        "Göğse bası uygulamak gerekir.",
+        "Baş-çene pozisyonunu düzeltmek gerekir.",
+        "Çok kuvvetli üflemek gerekir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yetişkin bir hasta/yaralıda yaşam belirtisi ve solunum yoksa ilk olarak ne yapılmalıdır?",
+      "options": [
+        "Ailesine haber verilmelidir.",
+        "188 aranmalıdır.",
+        "2 soluk verilmelidir.",
+        "Kalp masajına başlanmalıdır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Bir hasta/yaralıda yaşam belirtisi ve solunum yoksa 30 kalp masajından sonra ne yapılmalıdır?",
+      "options": [
+        "Ailesine haber verilmelidir.",
+        "112 aranmalıdır.",
+        "2 soluk verilmelidir.",
+        "Kalp masajına durmadan devam edilmelidir. ‐ 16 ‐"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yetişkinde kalp basısı nereye yapılır?",
+      "options": [
+        "Karında göbeğin 3 parmak üstüne",
+        "İman tahtasının (göğüs kemiğinin) ortasına",
+        "İman tahtasının (göğüs kemiğinin) alt yarısına",
+        "İman tahtasının (göğüs kemiğinin) alt ucuna"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Yetişkinde kalp basısı uygulanırken alttaki elin topuğunun iman tahtası üzerinde olmasının önemi nedir?",
+      "options": [
+        "Etkili bir kalp basısı yapılabilmesi için.",
+        "Düz olduğu için.",
+        "Ortada olduğu için.",
+        "Herkes tarafından bilinen bir kemik olduğu için."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yetişkinde etkili ve doğru kalp basısının yapılabilmesi için aşağıdakilerden hangisi yapılmamalıdır?",
+      "options": [
+        "Kalp basısı göğsün ortasına yapılmalıdır.",
+        "İki el birbirine kenetlenerek bası uygulanmalıdır.",
+        "Eller sabit tutulmalı ve parmaklar göğüs kafesine değmemelidir.",
+        "Dirsekler bükülmeli, yaylanma şeklinde bası uygulanmalıdır."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Kalp basısı sırasında göğüs kafesi ne kadar çöktürülmelidir?",
+      "options": [
+        "Göğüs kafesinin 1/2 si kadar",
+        "Göğüs kafesinin 1/3 ü kadar",
+        "Göğüs kafesinin 1/4 ü kadar",
+        "Göğüs kafesinin 1/5 i kadar"
+      ],
+      "correct": 1
+    }
+  ]
+}

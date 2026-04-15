@@ -1,0 +1,205 @@
+{
+  "title": "MEB Soru Bankası — Set 10/15",
+  "questions": [
+    {
+      "text": "Şok belirtileri nelerdir?",
+      "options": [
+        "Kan basıncında düşme",
+        "Soğuk terleme",
+        "Hızlı ve zayıf nabız",
+        "Hepsi YARALANMALARDA İLK YARDIM"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hangi yaranın mikrop kapma ihtimali yüksektir?",
+      "options": [
+        "Kenarları muntazam olan yaralar",
+        "Dikiş atılmış yaralar",
+        "Isırma ile oluşan yaralar",
+        "Derin olmayan yaralar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasına ne isim verilir?",
+      "options": [
+        "Kanama",
+        "Burkulma",
+        "Yara",
+        "Şok"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Bıçak, çakı, cam gibi kesici aletlerle oluşmuş genellikle basit, derinlikleri kolay belirlenen yaralar ne çeşit yaralardır?",
+      "options": [
+        "Parçalı yaralar",
+        "Enfekte yaralar",
+        "Kesik yaralar",
+        "Ezikli yaralar"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Taş, yumruk ya da sopa gibi etkenlerle oluşan, kenarları ezik, çok fazla kanaması olmayan yaralar ne çeşit yaralardır?",
+      "options": [
+        "Ezikli yaralar",
+        "Delici yaralar",
+        "Enfekte yaralar",
+        "Parçalı yaralar"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Uzun ve sivri aletlerle oluşan, çok derin olabilen yaralar ne çeşit yaralardır?",
+      "options": [
+        "Ezikli yaralar",
+        "Delici yaralar",
+        "Parçalı yaralar",
+        "Kesik yaralar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hangisi ciddi bir yaralanmadır?",
+      "options": [
+        "Yabancı cisim saplanmış yaralar",
+        "Delici aletlerle olan yaralar",
+        "Kanaması durdurulamayan yaralar",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yaralanmalarda ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Yaşam bulguları değerlendirilir.",
+        "Kanama durdurulur.",
+        "Yara üzeri kapatılır.",
+        "Hepsi ‐ 25 ‐"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yaralanmalarda hangi aşı yapılmalıdır?",
+      "options": [
+        "Grip aşısı",
+        "Tetanos aşısı",
+        "Çiçek aşısı",
+        "Kızamık aşısı"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Yara yeri değerlendirilirken nelere dikkat edilmelidir?",
+      "options": [
+        "Oluş şekline",
+        "Süresine",
+        "Yarada yabancı cisim varlığına",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Yarada kanama varsa ilk olarak ne yapılmalıdır?",
+      "options": [
+        "Önce kanama durdurulur.",
+        "Önce ilaç sürülür.",
+        "Önce hastaneye götürülür.",
+        "Önce aşı yaptırılır."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Yara yerinde yabancı cisim varsa ne yapılmalıdır?",
+      "options": [
+        "Çıkarılarak pansuman yapılmalıdır.",
+        "Çıkarılarak üzeri örtülmelidir.",
+        "Yabancı cisme dokunulmaz öylece sabitlenerek sağlık kuruluşuna götürülür.",
+        "Yabancı cisme dokunulmaz kendi kendine çıkması beklenir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Delici göğüs yaralanmalarında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Yara kesinlikle kapatılmamalıdır.",
+        "Yaranın üzeri tamamen kapatılmalıdır.",
+        "Yaranın üzeri üç tarafı kapalı bir tarafı açık olacak şekilde kapatılmalıdır.",
+        "Hiçbiri"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Bir trafik kazası sonucu oluşan yaralanmaya müdahale edilirken hangi durumda yaralı araçtan çıkarılır?",
+      "options": [
+        "Yaralı araçta sıkışmamış ve bir tehlike yoksa",
+        "Yaralının kol ve bacağında kırık varsa",
+        "Yaralının ön kolunda kontrol edilebilir bir kanama varsa",
+        "Yaralının solunumu yoksa"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Delici karın yaralanmalarında ilk yardımda aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Isı kaybını önlemek için hastanın üzeri örtülür.",
+        "Ağızdan hiçbir şey verilmez.",
+        "Dışarı çıkan organlar içeri sokularak üzeri örtülür.",
+        "Yaşam bulguları sık sık değerlendirilir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Delici karın yaralanmalarında ilk yardımda aşağıdaki uygulamalardan hangisi doğrudur?",
+      "options": [
+        "Dışarı çıkan organların üzeri nemli ve temiz bir bezle örtülür.",
+        "Kan kaybını önlemek için hastanın ayakları 60 cm yukarı kaldırılır.",
+        "Ağızdan sıvı verilerek sıvı kaybı önlenir.",
+        "Dışarı çıkan organlar içeri sokularak üzeri örtülür. ‐ 26 ‐"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kafatası ve omurga yaralanmaları hangi durumlarda daha çok görülür?",
+      "options": [
+        "Yüksekten düşme",
+        "Motorlu taşıt kazaları",
+        "İş kazaları",
+        "Hepsi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Trafik kazası geçiren bir yaralıda burun ve kulaktan kan veya açık renkli bir sıvı gelmesi neyi düşündürmelidir?",
+      "options": [
+        "Kafatası ve omurga yaralanması olduğunu",
+        "Hastanın grip olduğunu",
+        "Hastada beyin ölümü olduğunu",
+        "Karın içi kanama olduğunu"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Kafatası ve omurga yaralanmalarında ilk yardım nasıl olmalıdır?",
+      "options": [
+        "Hastanın bilinci açıksa yürütülerek hastaneye götürülebilir.",
+        "Herhangi bir tehlike söz konusu ise kucakta taşıma tekniği ile taşınabilir.",
+        "Taşımada baş-boyun-gövde ekseni bozulmamalıdır.",
+        "Boyun kırığı varsa boyun düzeltilmelidir."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Özellikle hangi hastalarda baş-boyun-gövde ekseni bozulmamalıdır?",
+      "options": [
+        "Kafatası ve omurga yaralanmalarında",
+        "İç kanaması olan hastalarda",
+        "Göz yaralanmalarında",
+        "Kedi, köpek ısırmalarında"
+      ],
+      "correct": 0
+    }
+  ]
+}
